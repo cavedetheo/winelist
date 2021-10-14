@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivino-product-list>
+<product>
+<product-name>Domaine Eyguestre Côtes-du-Rhône Séguret "Le Maupas" 2018 Rouge</product-name>
+<price>78</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/côtes-du-rhône-maupasr-eyguestre</link>
+<inventory-count>100</inventory-count>
+<product-id>P0013</product-id>
+<extras>
+  <producer>Domaine Eyguestre</producer>
+  <wine-name>Le Maupas</wine-name>
+  <appellation>Côtes-du-Rhône</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>70% Grenache, 30% Syrah</varietal>
+  <description>Très belle robe rouge violacée dans les tons de pourpre, limpide et brillante. Intense. Le nez se livre par petites touches successives sur des arômes de fruits noirs (mûre, myrtille, cassis) avec des nuances de kirsch. En bouche les arômes révèlent des notes de fruits confits (cerise, pruneau), avec fraîcheur et persistance. Haute valeur environnementale</description>
+</extras>
+</product>
+<product>
+<product-name>Domaine Eyguestre Côtes-du-Rhône Séguret "Le Maupas" 2019 Blanc</product-name>
+<price>78</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/côtes-du-rhône-maupasb-eyguestre</link>
+<inventory-count>100</inventory-count>
+<product-id>P0014</product-id>
+<extras>
+  <producer>Domaine Eyguestre</producer>
+  <wine-name>Le Maupas</wine-name>
+  <appellation>Côtes-du-Rhône</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>80% Viognier, 20% Marsanne</varietal>
+  <description>Très belle couleur jaune pâle, brillante. Le nez se livre par petites touches successives sur des arômes de fleurs blanches de chèvrefeuille et d’acacia, pêche de vigne et notes d’abricot. En bouche, surmontés par des notes de miel, amande verte. Fraicheur et minéralité, finale légèrement saline. Très longue persistance. Haute valeur environnementale </description>
+</extras>
+</product>
+</vivino-product-list>
