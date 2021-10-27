@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <vivino-product-list>
+
 <product>
 <product-name>Domaine Eyguestre Côtes-du-Rhône Séguret "Le Maupas" 2018 Rouge</product-name>
 <price>78</price>
@@ -20,6 +21,7 @@
   <description>Très belle robe rouge violacée dans les tons de pourpre, limpide et brillante. Intense. Le nez se livre par petites touches successives sur des arômes de fruits noirs (mûre, myrtille, cassis) avec des nuances de kirsch. En bouche les arômes révèlent des notes de fruits confits (cerise, pruneau), avec fraîcheur et persistance. Haute valeur environnementale</description>
 </extras>
 </product>
+
 <product>
 <product-name>Domaine Eyguestre Côtes-du-Rhône Séguret "Le Maupas" 2019 Blanc</product-name>
 <price>78</price>
@@ -37,8 +39,772 @@
   <country>France</country>
   <color>Blanc</color>
   <varietal>80% Viognier, 20% Marsanne</varietal>
-  <description>Très belle couleur jaune pâle, brillante. Le nez se livre par petites touches successives sur des arômes de fleurs blanches de chèvrefeuille et d’acacia, pêche de vigne et notes d’abricot. En bouche, surmontés par des notes de miel, amande verte. Fraicheur et minéralité, finale légèrement saline. Très longue persistance. Haute valeur environnementale</description>
+  <description>Très belle couleur jaune pâle, brillante. Le nez se livre par petites touches successives sur des arômes de fleurs blanches de chèvrefeuille et d’acacia, pêche de vigne et notes d’abricot. En bouche, surmontés par des notes de miel, amande verte. Fraicheur et minéralité, finale légèrement saline. Très longue persistance. Haute valeur environnementale </description>
 </extras>
 </product>
-</vivino-product-list>
 
+<product>
+<product-name>Domaine Gachot-Monot Bourgogne aligoté 2020 Blanc</product-name>
+<price>75</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bourgogne-aligoté-domaine-gachot-monot</link>
+<inventory-count>100</inventory-count>
+<product-id>P008051</product-id>
+<extras>
+  <producer>Domaine Gachot-Monot</producer>
+  <wine-name>Bourgogne aligoté</wine-name>
+  <appellation>Bourgogne</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Aligoté</varietal>
+  <description>Le Bourgogne Aligoté est le vin légitime du « Kir » mais se déguste également nature accompagné d’escargots, terrines de poissons ou encore de plats de charcuterie. 
+Le Bourgogne Aligoté s’apprécie jeune et se garde 2-3 ans après la mise en bouteille.</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Gachot-Monot Bourgogne Côte d’Or 2020 Blanc</product-name>
+<price>106</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bourgogne-blanc-domaine-gachot-monot</link>
+<inventory-count>100</inventory-count>
+<product-id>P008041</product-id>
+<extras>
+  <producer>Domaine Gachot-Monot</producer>
+  <wine-name>Bourgogne Côte d’Or</wine-name>
+  <appellation>Bourgogne</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Chardonnay</varietal>
+  <description>Le terroir, riche en marnes bleues, apporte à ce vin une belle rondeur. 
+Il s’apprécie à 3 ou 4 ans d’âge et accompagne toutes les entrées.</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2018 Rouge</product-name>
+<price>106</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bourgogne-rouge-gachot-monot</link>
+<inventory-count>100</inventory-count>
+<product-id>P00803</product-id>
+<extras>
+  <producer>Domaine Gachot-Monot</producer>
+  <wine-name>Bourgogne Pinot noir</wine-name>
+  <appellation>Bourgogne</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Pinot noir</varietal>
+  <description>Servir sur une viande rouge ou blanche grillée. 
+Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en bouteilles.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2019 Rouge</product-name>
+<price>106</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bourgogne-rouge-2019-gachot-monot</link>
+<inventory-count>100</inventory-count>
+<product-id>P008031#</product-id>
+<extras>
+  <producer>Domaine Gachot-Monot</producer>
+  <wine-name>Bourgogne Pinot noir</wine-name>
+  <appellation>Bourgogne</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Pinot noir</varietal>
+  <description>Servir sur une viande rouge ou blanche grillée. 
+Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en bouteilles.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Gachot-Monot Beaune 1er cru "Montrevenots" 2019 Rouge</product-name>
+<price>244</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/beaune-1cru-montrevenots-gachot-monot</link>
+<inventory-count>100</inventory-count>
+<product-id>P00791</product-id>
+<extras>
+  <producer>Domaine Gachot-Monot</producer>
+  <wine-name>Beaune 1er cru "Montrevenots"</wine-name>
+  <appellation>Beaune 1er cru</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Pinot noir</varietal>
+  <description>Vin charmant, délicat et fruité (framboise, fraise, cassis). 
+Accompagne des viandes rouges or des fromages crémeux. 
+Apogée de 2 à 7 ans après la mise en bouteille.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Gachot-Monot Côte de nuits-villages "En la botte" 2019 Rouge</product-name>
+<price>148</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/côte-de-nuits-botte-gachot-monot</link>
+<inventory-count>100</inventory-count>
+<product-id>P00801</product-id>
+<extras>
+  <producer>Domaine Gachot-Monot</producer>
+  <wine-name>Côte de nuits-villages "En la botte"</wine-name>
+  <appellation>Côte de nuits-villages</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Pinot noir</varietal>
+  <description>Millésime 2019 : Deuxième réalisation de cette cuvée sans soufre (la première étant en 2016). Vin très souple, fruité, à déguster dès maintenant ou dans les 3-4 ans à venir.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Le Passelys Cahors "Tradition" 2018 Rouge</product-name>
+<price>89</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/tradition-passelys</link>
+<inventory-count>100</inventory-count>
+<product-id>P01531</product-id>
+<extras>
+  <producer>Domaine Le Passelys</producer>
+  <wine-name>Cahors "Tradition"</wine-name>
+  <appellation>Cahors</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>85% Malbec, 15% Merlot</varietal>
+  <description>Un vin de plaisir, très aromatique, aux nôtes de fraises et d'épices, des tanins fins, équilibrés et mûrs. 
+Garde : 8 à 10 ans. 
+Récompense : Or au concours International Gilbert et Gaillard
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Le Passelys Cahors "Prestige" 2012 - Sélection parcellaire Rouge</product-name>
+<price>128</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/prestige-passelys</link>
+<inventory-count>100</inventory-count>
+<product-id>P01532</product-id>
+<extras>
+  <producer>Domaine Le Passelys</producer>
+  <wine-name>Cahors "Prestige"</wine-name>
+  <appellation>Cahors</appellation>
+  <vintage>2012</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Malbec</varietal>
+  <description>Issu des meilleures terrasses de l'appelation, ce pur Malbec au nez dominé par la cerise bien mûre et la cannelle, allie finesse et concentration. 
+A la différence du millésime 2017, les tannins sont devenus plus fondus et soyeux cela permettant à ce vin de profiter du plein potentiel de son élevage et du cépage Malbec. 
+A déguster avec une cuisine du Sud Ouest, viandes grillées, en sauce, truffes, gibiers, confits, fromages et chocolats.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Le Passelys Cahors "Prestige" 2017 - Sélection parcellaire Rouge</product-name>
+<price>104</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/prestige-2017-passelys</link>
+<inventory-count>100</inventory-count>
+<product-id>P01533</product-id>
+<extras>
+  <producer>Domaine Le Passelys</producer>
+  <wine-name>Cahors "Prestige"</wine-name>
+  <appellation>Cahors</appellation>
+  <vintage>2017</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Malbec</varietal>
+  <description>Issu des meilleures terrasses de l'appelation, ce pur Malbec au nez dominé par la cerise bien mûre et la cannelle, allie finesse et concentration. 
+A Déguster avec une cuisine du Sud Ouest, viandes grillées, en sauce, truffes, gibiers, confits, fromages et chocolats. 
+Garde : 10 à 12 ans. 
+Récompense : Argent au concours des Vignerons Indépendants
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Le Passelys "Colibri" 2020 Blanc</product-name>
+<price>116</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/colibri-passelys</link>
+<inventory-count>100</inventory-count>
+<product-id>P01535</product-id>
+<extras>
+  <producer>Domaine Le Passelys</producer>
+  <wine-name>"Colibri"</wine-name>
+  <appellation>"Colibri"</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>Souvignier gris, Muscaris</varietal>
+  <description>Un vin innovant, engagé qui ravira vos papilles. 
+Ces cépages sont le fruit d'un mariage entre deux variétés, l'une naturellement peu sensible aux maladies de la vigne et l'autre mondialement reconnue pour ces qualités organoleptiques. Ils nous ont permit d'obtenir ce vin en limitant à plus de 95 % les traitements utilisés en agriculture biologique ou biodynamique. 
+A déguster sur poissons, fruits du mer et fromages.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Le Passelys "Colibri" 2020 Rouge</product-name>
+<price>100</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/colibri-2020-rouge-domaine-le-passelys</link>
+<inventory-count>100</inventory-count>
+<product-id>P01534</product-id>
+<extras>
+  <producer>Domaine Le Passelys</producer>
+  <wine-name>"Colibri"</wine-name>
+  <appellation>"Colibri"</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>Cabernet Cortis, Prior</varietal>
+  <description>Jolie couleur rouge cerise, brillante, limpide : au 1er nez nous avons des notes fumées et graphites, après agitation nous retrouvons au 2ème nez des notes de cassis. L'attaque en bouche est souple, avec une belle structure. L'équilibre du vin est acidulé avec une bonne longueur aromatique, la finale est enrobée avec des tannins fins. Le vin est construit avec beaucoup de gourmandise sur une trame tannique légère et enrobée. 
+Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement avec une viande rouge ou blanche comme une côte de veau aux girolles ou brochette de poulet aux pruneaux. 
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Caillottes" 2020 Blanc</product-name>
+<price>118</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/caillottes-reverdy</link>
+<inventory-count>100</inventory-count>
+<product-id>P015821</product-id>
+<extras>
+  <producer>Domaine J.M. Reverdy et fils</producer>
+  <wine-name>Sancerre "Caillottes"</wine-name>
+  <appellation>Sancerre</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>Sauvignon</varietal>
+  <description>La robe est jaune clair et brillante. Des arômes minéraux et de fruits mûrs s'entremêlent pour offrir un bouquet frais et agréable. Le vin se montre très plaisant en bouche : racé et rond, il offre une finale délicatement acidulée qui lui donne une belle fraîcheur. 
+Servi entre 10 et 12 degrés, ce vin vous accompagnera lors d'un repas gastronomique. S'accordera parfaitement avec une sole meunière, un soufflé au crabe ou un lapin à l'estragon.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine J.M. Reverdy et fils Pouilly-Fumé "La Villaudière" 2020 Blanc</product-name>
+<price>102</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/pouilly-fumé-reverdy</link>
+<inventory-count>100</inventory-count>
+<product-id>P015822</product-id>
+<extras>
+  <producer>Domaine J.M. Reverdy et fils</producer>
+  <wine-name>Pouilly-Fumé "La Villaudière"</wine-name>
+  <appellation>Pouilly-Fumé</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>Sauvignon</varietal>
+  <description>Ce Pouilly-Fumé révèle un nez intense et complexe avec de fines senteurs de pêche et de fleurs d’acacia, complété par une élégante minéralité. En bouche, l’harmonie est très bien dessinée, la fraîcheur minérale équilibre le côté tendre de l’attaque. Ce vin offre une finale vive et persistante. 
+Servi entre 10 et 12 degrés, ce Pouilly-Fumé s’accordera avec une salade de la mer, des crustacés ou une viande blanche.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "La Villaudière" 2020 Blanc</product-name>
+<price>105</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/sancerre-blanc-reverdy</link>
+<inventory-count>100</inventory-count>
+<product-id>P015823</product-id>
+<extras>
+  <producer>Domaine J.M. Reverdy et fils</producer>
+  <wine-name>Sancerre "La Villaudière"</wine-name>
+  <appellation>Sancerre</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>Sauvignon</varietal>
+  <description>Ce vin offre une robe limpide, jaune pâle aux reflets dorés. Le nez expressif associe les odeurs florales à celles des pêches blanches et des fruits exotiques (ananas, passion). Harmonieuse, la bouche réunit une attaque franche, une matière tenue par la fraîcheur et une tension finale longue et puissante, qui fait ressortir une belle minéralité.
+Servi entre 10-12 degrés, ce vin d’une grande personnalité vous séduira lors d’un apéritif dinatoire, un Vol au vent, du poisson, des crustacés, des huîtres ou une cassolette de moules.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "La Villaudière" 2018 Rouge</product-name>
+<price>99</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/sancerre-rouge-reverdy</link>
+<inventory-count>100</inventory-count>
+<product-id>P015824</product-id>
+<extras>
+  <producer>Domaine J.M. Reverdy et fils</producer>
+  <wine-name>Sancerre "La Villaudière"</wine-name>
+  <appellation>Sancerre</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>Pinot noir</varietal>
+  <description>Belle robe rubis profond et intense. Le nez est expressif et dévoile des arômes complexes de fruits mûrs réhaussés de notes torréfiées et fumées. Après une attaque assez souple, le vin présente une belle amplitude, tout en finesse et en élégance. 
+Servi entre 12 - 14 degrés, c'est un vin élégant, fin et racé. Accompagnera à merveille un magret de canard et ses champignons, un rôti de dindonneau ou un ris de veau poêlés. 
+Potentiel de garde : 8 à 10 ans.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Terres blanches" 2020 Blanc</product-name>
+<price>118</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/terres-blanches-reverdy</link>
+<inventory-count>100</inventory-count>
+<product-id>P015825</product-id>
+<extras>
+  <producer>Domaine J.M. Reverdy et fils</producer>
+  <wine-name>Sancerre "Terres blanches"</wine-name>
+  <appellation>Sancerre</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>Sauvignon</varietal>
+  <description>La robe est jaune pâle avec des reflets dorés. Le nez s'exprime sur des senteurs fraîches et florales qui se mêlent à des arômes de fruits secs. En bouche, le vin se montre souple avec un beau volume tout en conservant une certaine vivacité. Fraîcheur et onctuosité se marient parfaitement et confèrent à ce vin un bon équilibre et une agréable persistance aromatique. 
+Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un diner raffiné. Superbe avec des langoustines, un brochet poché au beurre blanc ou une poularde de Bresse et sauce aux morilles.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2020 Blanc</product-name>
+<price>118</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/silex-blanc-reverdy</link>
+<inventory-count>100</inventory-count>
+<product-id>P015826</product-id>
+<extras>
+  <producer>Domaine J.M. Reverdy et fils</producer>
+  <wine-name>Sancerre "Silex"</wine-name>
+  <appellation>Sancerre</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>Sauvignon</varietal>
+  <description>La robe est jaune pâle et limpide. Le nez s'exprime sur des senteurs fraîches, florales et minérales. En bouche, le vin est concentré, équilibré et se montre plutôt nerveux. Il procure une agréable sensation de fraîcheur et offre une belle persistance aromatique. 
+Servi entre 10 et 12 degrés, ce vin illuminera vos repas raffinés. Agréable sur un plateau de fruits de mer, un homard à l'armoricaine ou une truite aux amandes.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2018 Rouge</product-name>
+<price>103</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/silex-rouge-reverdy</link>
+<inventory-count>100</inventory-count>
+<product-id>P015827</product-id>
+<extras>
+  <producer>Domaine J.M. Reverdy et fils</producer>
+  <wine-name>Sancerre "Silex"</wine-name>
+  <appellation>Sancerre</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>Pinot noir</varietal>
+  <description>La robe a une belle couleur rubis sombre et profond. Le vin exhale des arômes de fruits ensoleillés et des fines notes boisées. Il présente en bouche une matière généreuse et mûre avec des tanins bien fondus. Le boisé est discret et se marie agréablement avec le fruité pour offrir un vin d'une grande élégance. 
+Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais, par son caractère généreux, peut également se laisser découvrir dès à présent. Remarquable avec des cailles au confit d'airelles, un sauté de lapin aux pruneaux ou un plateau de fromages affinés. Potentiel de garde : 15 à 20 ans.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Stéphane Ogier Viognier de Rosine 2020 Blanc</product-name>
+<price>145</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/viognier-stephane-ogier</link>
+<inventory-count>100</inventory-count>
+<product-id>P00201</product-id>
+<extras>
+  <producer>Domaine Stéphane Ogier</producer>
+  <wine-name>Viognier de Rosine</wine-name>
+  <appellation>Viognier</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Viognier</varietal>
+  <description>Capacité de vieillissement : 4-5 ans</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Stéphane Ogier Condrieu "La combe de Malleval" 2020 Blanc</product-name>
+<price>255</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/condrieu-stephane-ogier</link>
+<inventory-count>100</inventory-count>
+<product-id>P00202</product-id>
+<extras>
+  <producer>Domaine Stéphane Ogier</producer>
+  <wine-name>Condrieu "La combe de Malleval"</wine-name>
+  <appellation>Condrieu</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Viognier</varietal>
+  <description>Capacité de vieillissement : 5-8 ans</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Stéphane Ogier Saint Joseph "Le passage" 2019 Rouge</product-name>
+<price>161</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/saint-joseph-stephane-ogier</link>
+<inventory-count>100</inventory-count>
+<product-id>P00203</product-id>
+<extras>
+  <producer>Domaine Stéphane Ogier</producer>
+  <wine-name>Saint Joseph "Le passage"</wine-name>
+  <appellation>Saint Joseph</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Syrah</varietal>
+  <description>Capacité de vieillissement : 5 à 10 ans</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Stéphane Ogier La Rosine 2019 Rouge</product-name>
+<price>135</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/rosine-stephane-ogier</link>
+<inventory-count>100</inventory-count>
+<product-id>P00204</product-id>
+<extras>
+  <producer>Domaine Stéphane Ogier</producer>
+  <wine-name>La Rosine</wine-name>
+  <appellation>Syrah</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>98% Syrah / 2% Viognier</varietal>
+  <description>Capacité de vieillissement : 5 à 10 ans</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Stéphane Ogier Côte-Rôtie "Mon village" 2019 Rouge</product-name>
+<price>286</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/côte-rôtie-stephane-ogier</link>
+<inventory-count>100</inventory-count>
+<product-id>P00205</product-id>
+<extras>
+  <producer>Domaine Stéphane Ogier</producer>
+  <wine-name>Côte-Rôtie "Mon village"</wine-name>
+  <appellation>Côte-Rôtie</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>96% Syrah / 4% Viognier</varietal>
+  <description>Capacité de vieillissement : 10 à 15 ans</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Stéphane Ogier L'âme soeur "Syrah de Seyssuel" 2018 Rouge</product-name>
+<price>286</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/ame-soeur-stephane-ogier</link>
+<inventory-count>100</inventory-count>
+<product-id>P00206</product-id>
+<extras>
+  <producer>Domaine Stéphane Ogier</producer>
+  <wine-name>L'âme soeur "Syrah de Seyssuel"</wine-name>
+  <appellation>Syrah de Seyssuel</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>96% Syrah / 4% Viognier</varietal>
+  <description>Capacité de vieillissement : 15 à 20 ans</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy Champagne Brut Réserve</product-name>
+<price>196</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/brut-réserve-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P0162</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>Brut Réserve</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>NM</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>10% Chardonnay, 90% Pinots</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy "Fleur de Champagne" 1er Cru</product-name>
+<price>216</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/fleur-de-champagne-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P01661</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>"Fleur de Champagne" 1er Cru</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>NM</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>70% Chardonnay, 30% Pinot noir</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy Prestige Rosé 1er Cru</product-name>
+<price>287</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/prestige-rosé-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P01662</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>Prestige Rosé 1er Cru</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>NM</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>Chardonnay, Pinot noir</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy Précieuses parcelles "Cumières" 2005 Bio</product-name>
+<price>517</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/cumières-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P01663</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>Précieuses parcelles "Cumières"</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>2005</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>100% Pinot noir</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy Prestige Blanc de blancs Grand Cru</product-name>
+<price>299</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/prestige-blanc-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P0166</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>Prestige Blanc de blancs Grand Cru</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>NM</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>100% Chardonnay</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy Prestige Extra Brut 1er Cru</product-name>
+<price>238</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/prestige-extra-brut-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P01664</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>Prestige Extra Brut 1er Cru</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>NM</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>65% Chardonnay, 35% Pinot noir</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy "Femme de Champagne" Brut Grand Cru</product-name>
+<price>479</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/femme-de-champagne-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P01665</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>"Femme de Champagne" Brut Grand Cru</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>NM</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>87% Chardonnay, 13% Pinot noir</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy Précieuses parcelles "Petit Meslier" 2008</product-name>
+<price>517</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/meslier-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P01666</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>Précieuses parcelles "Petit Meslier"</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>2008</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>100% Petit meslier</varietal>
+  <description>Cépage originaire de l’est de la France, implanté en Champagne dans la Vallée de la Marne et dans l’Aube; croisement naturel entre le gouais blanc (ancien cépage historique champenois) et le savagnin. Il affectionne les sols profonds et riches, argilo- calcaires en côteaux bien exposés. Ce cépage donne des raisins blancs à peau jaune dorée. Son jus est très frais et très parfumé vers des notes de rhubarbe. En fermentation alcoolique, il évolue vers l’ortie blanche. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy Précieuses parcelles "Clos des Bouveries" 2006</product-name>
+<price>517</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bouveries-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P01667</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>Précieuses parcelles "Clos des Bouveries"</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>2006</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>100% Chardonnay</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Duval-Leroy Précieuses parcelles "Bouzy" Grand Cru 2007 Bio</product-name>
+<price>517</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bouzy-duval-leroy</link>
+<inventory-count>100</inventory-count>
+<product-id>P01668</product-id>
+<extras>
+  <producer>Maison Duval-Leroy</producer>
+  <wine-name>Précieuses parcelles "Bouzy" Grand Cru</wine-name>
+  <appellation>Champagne</appellation>
+  <vintage>2007</vintage>
+  <country>France</country>
+  <color>Effervescent</color>
+  <varietal>100% Pinot noir</varietal>
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+Servir en 8° et 10°</description>
+</extras>
+</product>
+
+</vivino-product-list>
