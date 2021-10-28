@@ -23,7 +23,7 @@
 </product>
 
 <product>
-<product-name>Domaine Eyguestre Côtes-du-Rhône Séguret "Le Maupas" 2019 Blanc</product-name>
+<product-name>Domaine Eyguestre Côtes-du-Rhône Séguret "Le Maupas" 2020 Blanc</product-name>
 <price>78</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -35,7 +35,7 @@
   <producer>Domaine Eyguestre</producer>
   <wine-name>Le Maupas</wine-name>
   <appellation>Côtes-du-Rhône</appellation>
-  <vintage>2019</vintage>
+  <vintage>2020</vintage>
   <country>France</country>
   <color>Blanc</color>
   <varietal>80% Viognier, 20% Marsanne</varietal>
