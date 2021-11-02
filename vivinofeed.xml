@@ -12,7 +12,7 @@
 <product-id>P0013</product-id>
 <extras>
   <producer>Domaine Eyguestre</producer>
-  <wine-name>Le Maupas</wine-name>
+  <wine-name>Côtes-du-Rhône "Le Maupas"</wine-name>
   <appellation>Côtes-du-Rhône</appellation>
   <vintage>2018</vintage>
   <country>France</country>
@@ -33,7 +33,7 @@
 <product-id>P0014</product-id>
 <extras>
   <producer>Domaine Eyguestre</producer>
-  <wine-name>Le Maupas</wine-name>
+  <wine-name>Côtes-du-Rhône "Le Maupas"</wine-name>
   <appellation>Côtes-du-Rhône</appellation>
   <vintage>2020</vintage>
   <country>France</country>
@@ -55,7 +55,7 @@
 <extras>
   <producer>Domaine Gachot-Monot</producer>
   <wine-name>Bourgogne aligoté</wine-name>
-  <appellation>Bourgogne</appellation>
+  <appellation></appellation>
   <vintage>2020</vintage>
   <country>France</country>
   <color>Blanc</color>
@@ -77,7 +77,7 @@ Le Bourgogne Aligoté s’apprécie jeune et se garde 2-3 ans après la mise en 
 <extras>
   <producer>Domaine Gachot-Monot</producer>
   <wine-name>Bourgogne Côte d’Or</wine-name>
-  <appellation>Bourgogne</appellation>
+  <appellation></appellation>
   <vintage>2020</vintage>
   <country>France</country>
   <color>Blanc</color>
@@ -99,7 +99,7 @@ Il s’apprécie à 3 ou 4 ans d’âge et accompagne toutes les entrées.</desc
 <extras>
   <producer>Domaine Gachot-Monot</producer>
   <wine-name>Bourgogne Pinot noir</wine-name>
-  <appellation>Bourgogne</appellation>
+  <appellation></appellation>
   <vintage>2018</vintage>
   <country>France</country>
   <color>Rouge</color>
@@ -122,7 +122,7 @@ Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en b
 <extras>
   <producer>Domaine Gachot-Monot</producer>
   <wine-name>Bourgogne Pinot noir</wine-name>
-  <appellation>Bourgogne</appellation>
+  <appellation></appellation>
   <vintage>2019</vintage>
   <country>France</country>
   <color>Rouge</color>
@@ -264,7 +264,7 @@ Récompense : Argent au concours des Vignerons Indépendants
 <extras>
   <producer>Domaine Le Passelys</producer>
   <wine-name>"Colibri"</wine-name>
-  <appellation>"Colibri"</appellation>
+  <appellation></appellation>
   <vintage>2020</vintage>
   <country>France</country>
   <color>Blanc</color>
@@ -288,13 +288,13 @@ A déguster sur poissons, fruits du mer et fromages.
 <extras>
   <producer>Domaine Le Passelys</producer>
   <wine-name>"Colibri"</wine-name>
-  <appellation>"Colibri"</appellation>
+  <appellation></appellation>
   <vintage>2020</vintage>
   <country>France</country>
   <color>Rouge</color>
   <varietal>Cabernet Cortis, Prior</varietal>
-  <description>Jolie couleur rouge cerise, brillante, limpide : au 1er nez nous avons des notes fumées et graphites, après agitation nous retrouvons au 2ème nez des notes de cassis. L'attaque en bouche est souple, avec une belle structure. L'équilibre du vin est acidulé avec une bonne longueur aromatique, la finale est enrobée avec des tannins fins. Le vin est construit avec beaucoup de gourmandise sur une trame tannique légère et enrobée. 
-Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement avec une viande rouge ou blanche comme une côte de veau aux girolles ou brochette de poulet aux pruneaux. 
+  <description>Jolie couleur rouge cerise, brillante, limpide : au 1er nez nous avons des notes fumées et graphites, après agitation nous retrouvons au 2ème nez des notes de cassis. L'attaque en bouche est souple, avec une belle structure. L'équilibre du vin est acidulé avec une bonne longueur aromatique, la finale est enrobée avec des tannins fins. Le vin est construit avec beaucoup de gourmandise sur une trame tannique légère et enrobée. 
+Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement avec une viande rouge ou blanche comme une côte de veau aux girolles ou brochette de poulet aux pruneaux. 
 </description>
 </extras>
 </product>
@@ -316,8 +316,8 @@ Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement ave
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
-  <description>La robe est jaune clair et brillante. Des arômes minéraux et de fruits mûrs s'entremêlent pour offrir un bouquet frais et agréable. Le vin se montre très plaisant en bouche : racé et rond, il offre une finale délicatement acidulée qui lui donne une belle fraîcheur. 
-Servi entre 10 et 12 degrés, ce vin vous accompagnera lors d'un repas gastronomique. S'accordera parfaitement avec une sole meunière, un soufflé au crabe ou un lapin à l'estragon.
+  <description>La robe est jaune clair et brillante. Des arômes minéraux et de fruits mûrs s'entremêlent pour offrir un bouquet frais et agréable. Le vin se montre très plaisant en bouche : racé et rond, il offre une finale délicatement acidulée qui lui donne une belle fraîcheur. 
+Servi entre 10 et 12 degrés, ce vin vous accompagnera lors d'un repas gastronomique. S'accordera parfaitement avec une sole meunière, un soufflé au crabe ou un lapin à l'estragon.
 </description>
 </extras>
 </product>
@@ -339,8 +339,8 @@ Servi entre 10 et 12 degrés, ce vin vous accompagnera lors d'un repas gastrono
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
-  <description>Ce Pouilly-Fumé révèle un nez intense et complexe avec de fines senteurs de pêche et de fleurs d’acacia, complété par une élégante minéralité. En bouche, l’harmonie est très bien dessinée, la fraîcheur minérale équilibre le côté tendre de l’attaque. Ce vin offre une finale vive et persistante. 
-Servi entre 10 et 12 degrés, ce Pouilly-Fumé s’accordera avec une salade de la mer, des crustacés ou une viande blanche.
+  <description>Ce Pouilly-Fumé révèle un nez intense et complexe avec de fines senteurs de pêche et de fleurs d’acacia, complété par une élégante minéralité. En bouche, l’harmonie est très bien dessinée, la fraîcheur minérale équilibre le côté tendre de l’attaque. Ce vin offre une finale vive et persistante. 
+Servi entre 10 et 12 degrés, ce Pouilly-Fumé s’accordera avec une salade de la mer, des crustacés ou une viande blanche.
 </description>
 </extras>
 </product>
@@ -362,8 +362,8 @@ Servi entre 10 et 12 degrés, ce Pouilly-Fumé s’accordera avec une salade d
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
-  <description>Ce vin offre une robe limpide, jaune pâle aux reflets dorés. Le nez expressif associe les odeurs florales à celles des pêches blanches et des fruits exotiques (ananas, passion). Harmonieuse, la bouche réunit une attaque franche, une matière tenue par la fraîcheur et une tension finale longue et puissante, qui fait ressortir une belle minéralité.
-Servi entre 10-12 degrés, ce vin d’une grande personnalité vous séduira lors d’un apéritif dinatoire, un Vol au vent, du poisson, des crustacés, des huîtres ou une cassolette de moules.
+  <description>Ce vin offre une robe limpide, jaune pâle aux reflets dorés. Le nez expressif associe les odeurs florales à celles des pêches blanches et des fruits exotiques (ananas, passion). Harmonieuse, la bouche réunit une attaque franche, une matière tenue par la fraîcheur et une tension finale longue et puissante, qui fait ressortir une belle minéralité.
+Servi entre 10-12 degrés, ce vin d’une grande personnalité vous séduira lors d’un apéritif dinatoire, un Vol au vent, du poisson, des crustacés, des huîtres ou une cassolette de moules.
 </description>
 </extras>
 </product>
@@ -385,9 +385,9 @@ Servi entre 10-12 degrés, ce vin d’une grande personnalité vous séduira 
   <country>France</country>
   <color>Rouge</color>
   <varietal>Pinot noir</varietal>
-  <description>Belle robe rubis profond et intense. Le nez est expressif et dévoile des arômes complexes de fruits mûrs réhaussés de notes torréfiées et fumées. Après une attaque assez souple, le vin présente une belle amplitude, tout en finesse et en élégance. 
-Servi entre 12 - 14 degrés, c'est un vin élégant, fin et racé. Accompagnera à merveille un magret de canard et ses champignons, un rôti de dindonneau ou un ris de veau poêlés. 
-Potentiel de garde : 8 à 10 ans.
+  <description>Belle robe rubis profond et intense. Le nez est expressif et dévoile des arômes complexes de fruits mûrs réhaussés de notes torréfiées et fumées. Après une attaque assez souple, le vin présente une belle amplitude, tout en finesse et en élégance. 
+Servi entre 12 - 14 degrés, c'est un vin élégant, fin et racé. Accompagnera à merveille un magret de canard et ses champignons, un rôti de dindonneau ou un ris de veau poêlés. 
+Potentiel de garde : 8 à 10 ans.
 </description>
 </extras>
 </product>
@@ -409,8 +409,8 @@ Potentiel de garde : 8 à 10 ans.
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
-  <description>La robe est jaune pâle avec des reflets dorés. Le nez s'exprime sur des senteurs fraîches et florales qui se mêlent à des arômes de fruits secs. En bouche, le vin se montre souple avec un beau volume tout en conservant une certaine vivacité. Fraîcheur et onctuosité se marient parfaitement et confèrent à ce vin un bon équilibre et une agréable persistance aromatique. 
-Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un diner raffiné. Superbe avec des langoustines, un brochet poché au beurre blanc ou une poularde de Bresse et sauce aux morilles.
+  <description>La robe est jaune pâle avec des reflets dorés. Le nez s'exprime sur des senteurs fraîches et florales qui se mêlent à des arômes de fruits secs. En bouche, le vin se montre souple avec un beau volume tout en conservant une certaine vivacité. Fraîcheur et onctuosité se marient parfaitement et confèrent à ce vin un bon équilibre et une agréable persistance aromatique. 
+Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un diner raffiné. Superbe avec des langoustines, un brochet poché au beurre blanc ou une poularde de Bresse et sauce aux morilles.
 </description>
 </extras>
 </product>
@@ -432,8 +432,8 @@ Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
-  <description>La robe est jaune pâle et limpide. Le nez s'exprime sur des senteurs fraîches, florales et minérales. En bouche, le vin est concentré, équilibré et se montre plutôt nerveux. Il procure une agréable sensation de fraîcheur et offre une belle persistance aromatique. 
-Servi entre 10 et 12 degrés, ce vin illuminera vos repas raffinés. Agréable sur un plateau de fruits de mer, un homard à l'armoricaine ou une truite aux amandes.
+  <description>La robe est jaune pâle et limpide. Le nez s'exprime sur des senteurs fraîches, florales et minérales. En bouche, le vin est concentré, équilibré et se montre plutôt nerveux. Il procure une agréable sensation de fraîcheur et offre une belle persistance aromatique. 
+Servi entre 10 et 12 degrés, ce vin illuminera vos repas raffinés. Agréable sur un plateau de fruits de mer, un homard à l'armoricaine ou une truite aux amandes.
 </description>
 </extras>
 </product>
@@ -455,8 +455,8 @@ Servi entre 10 et 12 degrés, ce vin illuminera vos repas raffinés. Agréabl
   <country>France</country>
   <color>Rouge</color>
   <varietal>Pinot noir</varietal>
-  <description>La robe a une belle couleur rubis sombre et profond. Le vin exhale des arômes de fruits ensoleillés et des fines notes boisées. Il présente en bouche une matière généreuse et mûre avec des tanins bien fondus. Le boisé est discret et se marie agréablement avec le fruité pour offrir un vin d'une grande élégance. 
-Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais, par son caractère généreux, peut également se laisser découvrir dès à présent. Remarquable avec des cailles au confit d'airelles, un sauté de lapin aux pruneaux ou un plateau de fromages affinés. Potentiel de garde : 15 à 20 ans.
+  <description>La robe a une belle couleur rubis sombre et profond. Le vin exhale des arômes de fruits ensoleillés et des fines notes boisées. Il présente en bouche une matière généreuse et mûre avec des tanins bien fondus. Le boisé est discret et se marie agréablement avec le fruité pour offrir un vin d'une grande élégance. 
+Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais, par son caractère généreux, peut également se laisser découvrir dès à présent. Remarquable avec des cailles au confit d'airelles, un sauté de lapin aux pruneaux ou un plateau de fromages affinés. Potentiel de garde : 15 à 20 ans.
 </description>
 </extras>
 </product>
@@ -520,7 +520,7 @@ Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais
   <country>France</country>
   <color>Rouge</color>
   <varietal>100% Syrah</varietal>
-  <description>Capacité de vieillissement : 5 à 10 ans</description>
+  <description>Capacité de vieillissement : 5 à 10 ans</description>
 </extras>
 </product>
 
@@ -536,12 +536,12 @@ Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais
 <extras>
   <producer>Domaine Stéphane Ogier</producer>
   <wine-name>La Rosine</wine-name>
-  <appellation>Syrah</appellation>
+  <appellation></appellation>
   <vintage>2019</vintage>
   <country>France</country>
   <color>Rouge</color>
   <varietal>98% Syrah / 2% Viognier</varietal>
-  <description>Capacité de vieillissement : 5 à 10 ans</description>
+  <description>Capacité de vieillissement : 5 à 10 ans</description>
 </extras>
 </product>
 
@@ -600,9 +600,9 @@ Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais
   <producer>Maison Duval-Leroy</producer>
   <wine-name>Brut Réserve</wine-name>
   <appellation>Champagne</appellation>
-  <vintage>NM</vintage>
+  <vintage>NV</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Brut</color>
   <varietal>10% Chardonnay, 90% Pinots</varietal>
   <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
@@ -622,9 +622,9 @@ Servir en 8° et 10°</description>
   <producer>Maison Duval-Leroy</producer>
   <wine-name>"Fleur de Champagne" 1er Cru</wine-name>
   <appellation>Champagne</appellation>
-  <vintage>NM</vintage>
+  <vintage>NV</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Brut</color>
   <varietal>70% Chardonnay, 30% Pinot noir</varietal>
   <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
@@ -644,9 +644,9 @@ Servir en 8° et 10°</description>
   <producer>Maison Duval-Leroy</producer>
   <wine-name>Prestige Rosé 1er Cru</wine-name>
   <appellation>Champagne</appellation>
-  <vintage>NM</vintage>
+  <vintage>NV</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Rosé</color>
   <varietal>Chardonnay, Pinot noir</varietal>
   <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
@@ -668,7 +668,7 @@ Servir en 8° et 10°</description>
   <appellation>Champagne</appellation>
   <vintage>2005</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Brut</color>
   <varietal>100% Pinot noir</varietal>
   <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
@@ -688,9 +688,9 @@ Servir en 8° et 10°</description>
   <producer>Maison Duval-Leroy</producer>
   <wine-name>Prestige Blanc de blancs Grand Cru</wine-name>
   <appellation>Champagne</appellation>
-  <vintage>NM</vintage>
+  <vintage>NV</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Blanc de blancs</color>
   <varietal>100% Chardonnay</varietal>
   <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
@@ -710,9 +710,9 @@ Servir en 8° et 10°</description>
   <producer>Maison Duval-Leroy</producer>
   <wine-name>Prestige Extra Brut 1er Cru</wine-name>
   <appellation>Champagne</appellation>
-  <vintage>NM</vintage>
+  <vintage>NV</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Extra brut</color>
   <varietal>65% Chardonnay, 35% Pinot noir</varietal>
   <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
@@ -732,9 +732,9 @@ Servir en 8° et 10°</description>
   <producer>Maison Duval-Leroy</producer>
   <wine-name>"Femme de Champagne" Brut Grand Cru</wine-name>
   <appellation>Champagne</appellation>
-  <vintage>NM</vintage>
+  <vintage>NV</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Brut</color>
   <varietal>87% Chardonnay, 13% Pinot noir</varietal>
   <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
@@ -756,9 +756,9 @@ Servir en 8° et 10°</description>
   <appellation>Champagne</appellation>
   <vintage>2008</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Extra brut</color>
   <varietal>100% Petit meslier</varietal>
-  <description>Cépage originaire de l’est de la France, implanté en Champagne dans la Vallée de la Marne et dans l’Aube; croisement naturel entre le gouais blanc (ancien cépage historique champenois) et le savagnin. Il affectionne les sols profonds et riches, argilo- calcaires en côteaux bien exposés. Ce cépage donne des raisins blancs à peau jaune dorée. Son jus est très frais et très parfumé vers des notes de rhubarbe. En fermentation alcoolique, il évolue vers l’ortie blanche. 
+  <description>Cépage originaire de l’est de la France, implanté en Champagne dans la Vallée de la Marne et dans l’Aube; croisement naturel entre le gouais blanc (ancien cépage historique champenois) et le savagnin. Il affectionne les sols profonds et riches, argilo- calcaires en côteaux bien exposés. Ce cépage donne des raisins blancs à peau jaune dorée. Son jus est très frais et très parfumé vers des notes de rhubarbe. En fermentation alcoolique, il évolue vers l’ortie blanche. 
 Servir en 8° et 10°</description>
 </extras>
 </product>
@@ -778,9 +778,9 @@ Servir en 8° et 10°</description>
   <appellation>Champagne</appellation>
   <vintage>2006</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Extra brut</color>
   <varietal>100% Chardonnay</varietal>
-  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
 </extras>
 </product>
@@ -793,17 +793,168 @@ Servir en 8° et 10°</description>
 <bottle_quantity>6</bottle_quantity>
 <link>https://www.cavedetheo.com/product-page/bouzy-duval-leroy</link>
 <inventory-count>100</inventory-count>
-<product-id>P01668</product-id>
+<product-id>PXXXX</product-id>
 <extras>
   <producer>Maison Duval-Leroy</producer>
   <wine-name>Précieuses parcelles "Bouzy" Grand Cru</wine-name>
   <appellation>Champagne</appellation>
   <vintage>2007</vintage>
   <country>France</country>
-  <color>Effervescent</color>
+  <color>Extra brut</color>
   <varietal>100% Pinot noir</varietal>
-  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
+  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
 Servir en 8° et 10°</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Bru-Baché Jurançon 2019 Blanc</product-name>
+<price>90</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/jurançon-bru-bache</link>
+<inventory-count>100</inventory-count>
+<product-id>P00417122</product-id>
+<extras>
+  <producer>Domaine Bru-Baché</producer>
+  <wine-name>Jurançon</wine-name>
+  <appellation>Jurançon</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Gros Manseng</varietal>
+  <description>Ce vin 100% Gros Manseng, vinifié et élevé en cuve inox, est un vin de plaisir spontané aux sensations immédiatement accessibles. Ce Jurançon Moelleux exalte les qualité naturelles du cépage, une nature éloquente et une facture élégante.
+Couleur : jaune paille
+Bouquet : litchi, poire
+Goût : équilibre sucre - acidité
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Bru-Baché Jurançon "Les Castérasses" 2019 Blanc</product-name>
+<price>105</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/jurançon-les-casterasses-bru-bache</link>
+<inventory-count>100</inventory-count>
+<product-id>P00417123</product-id>
+<extras>
+  <producer>Domaine Bru-Baché</producer>
+  <wine-name>Jurançon "Les Castérasses"</wine-name>
+  <appellation>Jurançon</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>75% Petit Manseng, 25% Gros Manseng</varietal>
+  <description>L’architecture du Jurançon allie toujours nettement deux âmes : le rond et la pointe. La pointe : signe de rectitude
+de sa perfection acide qui tranche dans l’épaisseur du vin. Le rond : signe de sa générosité charnelle qui entoure le vin de toutes les séductions. Cet assemblage (75% Petit Manseng, 25% Gros Manseng), vinifié et élevé 18 mois en barriques, archétype du Jurançon, témoigne de ces deux images en équilibre.
+Couleur : or pâle
+Bouquet : tilleuil, mandarine, pêche
+Goût : structuré et équilibré entre sucre et acidité
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Bru-Baché Jurançon "L'Eminence" 2018 Blanc</product-name>
+<price>398</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/l-eminence-bru-bache</link>
+<inventory-count>100</inventory-count>
+<product-id>P00417124</product-id>
+<extras>
+  <producer>Domaine Bru-Baché</producer>
+  <wine-name>Jurançon "L'Eminence"</wine-name>
+  <appellation>Jurançon</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Petit Manseng</varietal>
+  <description>Ce vin est l’oeuvre vraie du temps : sa délivrance. Il en appelle à la durée qui lui en a donné son sens : celui de rasisins de Petit Manseng lentement passerillés jusqu’à la mi-décembre. Et cette durée, célèbre la rareté : celle des grains dérobés à la convoitise de l’oiseau des vignes afin d’en cueillir les hauts goûts et d’en dévoiler les formes sculpturales. Ce vin marque donc une transfiguration progressive du terroir par le temps au profit de l’esprit du Jurançon. Ce chemin n’est pas un rebroussement mais un progrès dirigé contre le goût de l’à-peu-près : une reconquête. Aussi, l’étiquette de ce vin emprunte-t-elle deux symboles à l’Eglise Saint Girons de Monein du XV° siècle : l’oiseau gourmand et la roue du temps, cercle des mouvements éternels comme ceux de la vigne.
+Couleur : doré intense
+Bouquet : oranges confites, abricots, fruits secs
+Goût : puissant et frais
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Bru-Baché Jurançon "La Quintessence" 2019 Blanc</product-name>
+<price>160</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/jurançon-la-quintessence-bru-bache</link>
+<inventory-count>100</inventory-count>
+<product-id>P00417125</product-id>
+<extras>
+  <producer>Domaine Bru-Baché</producer>
+  <wine-name>Jurançon "La Quintessence"</wine-name>
+  <appellation>Jurançon</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Petit Manseng</varietal>
+  <description>Par souci de parvenir à la vérité la plus pénétrante du terroir, ce vin célèbre l’accomplissement du passerillage du Petit Manseng. La vigne est bien jointure entre terre et ciel lorsqu’elle est vendangée durant la deuxième quinzaine de novembre pour délivrer un vin de plus grande allure.
+Couleur : vieil or
+Bouquet : fruits confits, fruits exotiques
+Goût : équilibre sucre – acidité avec beaucoup de longueur
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Bru-Baché Jurançon sec 2019 Blanc</product-name>
+<price>72</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/jurançon-sec-bru-bache</link>
+<inventory-count>100</inventory-count>
+<product-id>P00417126</product-id>
+<extras>
+  <producer>Domaine Bru-Baché</producer>
+  <wine-name>Jurançon sec</wine-name>
+  <appellation>Jurançon</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Gros Manseng</varietal>
+  <description>Ce vin 100 % Gros Manseng, vinifié et élevé en cuve inox, d’un charme exquis célèbre une première approche du Domaine. Il se range du côté des Jurançons Secs dévoués aux gratifications élémentaires : c’est un vin leste et joyeux insufflant beaucoup de fraîcheur et emportant la soif.
+Couleur : jaune pâle
+Bouquet : agrumes, pêches
+Goût : acidulé
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Bru-Baché Jurançon sec "Les Castérasses" 2019 Blanc</product-name>
+<price>102</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/jurançon-sec-castérasses-bru-bache</link>
+<inventory-count>100</inventory-count>
+<product-id>P00417127</product-id>
+<extras>
+  <producer>Domaine Bru-Baché</producer>
+  <wine-name>Jurançon sec "Les Castérasses"</wine-name>
+  <appellation>Jurançon</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>50% Gros Manseng, 50% Petit Manseng</varietal>
+  <description>La terre invite le vigneron à coopérer à ses propres faveurs. Aussi cet assemblage (50% Gros Manseng, 50% Petit Manseng), récolté à la limite de la surmaturité, vinifié et élevé en barriques pendant 18 mois, prend l’allure d’une offrande de la Terre : à la fois généreuse dans son fond et nerveuse dans sa forme. Un vin profond.
+Couleur : jaune doré
+Bouquet : agrumes, pêches, amandes, épices 
+Goût : riche et équilibré
+</description>
 </extras>
 </product>
 
