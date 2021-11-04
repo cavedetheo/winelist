@@ -958,4 +958,165 @@ Goût : riche et équilibré
 </extras>
 </product>
 
+<product>
+<product-name>Château Ferreyres Bellevue Bordeaux supérieur 2016 Rouge</product-name>
+<price>66</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bordeaux-supérieur-2016-chateau-ferreyres-bellevue</link>
+<inventory-count>100</inventory-count>
+<product-id>P02002</product-id>
+<extras>
+  <producer>Château Ferreyres Bellevue</producer>
+  <wine-name>Bordeaux supérieur</wine-name>
+  <appellation></appellation>
+  <vintage>2016</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>85% Merlot, 15% Cabernet franc</varietal>
+  <description>Dégustation : Au nez, des arômes puissants viennent à votre rencontre, on y trouve des notes de fruits mûrs, cassis et cerise. La bouche reprend avec gourmandise ces parums, accompagnés de tanins longs et soyeux. 
+Accords : Ce vin accompagnera parfaitement une terrine de campagne,  des viandes rôties fondantes (porc, bœuf, lapin). Les tanins longs et soyeux s'associent aux champignons sauvages. Pour le fromage, privilégier les pâtes pressées non cuites comme le Cantal, la Tome de Savoie ou la Mimolette. 
+Garde : Peut être consommé rapidement pour les amateurs de vins jeunes et puissants. Il atteindra sa maturité après 4 ou 5 ans. Il peut être conservé jusqu'à 10 ans pour les plus patients.
+Servir à 16°
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Ferreyres Bordeaux 2019 Rouge</product-name>
+<price>60</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bordeaux-2019-chateau-ferreyres</link>
+<inventory-count>100</inventory-count>
+<product-id>P02003</product-id>
+<extras>
+  <producer>Château Ferreyres</producer>
+  <wine-name>Bordeaux</wine-name>
+  <appellation></appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>80% Merlot, 10% Cabernet franc, 10% Cabernet sauvignon</varietal>
+  <description>Dégustation : Le nez est marqué par des notes de fruits rouges et d'épices. En bouche, l'attaque est ronde, accompagnée de notes de cerises et cassis. Le tout ponctué par une belle longueur légèrement minérale.
+Accords : Ce Bordeaux fruité et épicé accompagnera parfaitement des plats élaborés comme un carré de porc rôti à la sauge, une escalope de veau, un hamburger maison ou un poulet au curry. 
+Garde : Peut être consommé rapidement pour les amateurs de vins jeunes. Il atteindra sa maturité après 3 ou 4 années de conservation. 
+Servir à 16°
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Fontaine De L'aubier AOC Médoc 2015 Rouge</product-name>
+<price>72</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/aoc-médoc-2015-chateau-fontaine-de-l-aubier</link>
+<inventory-count>100</inventory-count>
+<product-id>P02004</product-id>
+<extras>
+  <producer>Château Fontaine De L'aubier</producer>
+  <wine-name>AOC Médoc</wine-name>
+  <appellation></appellation>
+  <vintage>2015</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>50% Cabernet sauvignon, 50% Merlot</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Château L'inclassable AOC Médoc 2015 Rouge</product-name>
+<price>111</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/aoc-médoc-2015-chateau-l-inclassable</link>
+<inventory-count>100</inventory-count>
+<product-id>P02005</product-id>
+<extras>
+  <producer>Château L'inclassable</producer>
+  <wine-name>AOC Médoc</wine-name>
+  <appellation></appellation>
+  <vintage>2015</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>55% Cabernet sauvignon, 28% Petit verdot, 12% Merlot, 5% Cabernet franc</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Château L'inclassable AOC Médoc "L'Inclassable vegan" 2016 Rouge</product-name>
+<price>93</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/aoc-médoc-2016-l-inclassable-vegan-chateau-l-inclassable</link>
+<inventory-count>100</inventory-count>
+<product-id>P02006</product-id>
+<extras>
+  <producer>Château L'inclassable</producer>
+  <wine-name>AOC Médoc "L'Inclassable vegan"</wine-name>
+  <appellation></appellation>
+  <vintage>2016</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>50% Cabernet sauvignon, 30% Merlot, 20% Cabernet franc</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Marzin Bordeaux "L'Âne" 2016 Rouge</product-name>
+<price>123</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/marzin-lane</link>
+<inventory-count>100</inventory-count>
+<product-id>P02007</product-id>
+<extras>
+  <producer>Château Marzin</producer>
+  <wine-name>Bordeaux "L'Âne"</wine-name>
+  <appellation></appellation>
+  <vintage>2016</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Malbec</varietal>
+  <description>Dégustation : Une très belle robe moirée aux reflets violets invite à la dégustation de ce malbec de l’appellation Côtes de Blaye. L’arôme est riche et concentré de fruits noirs, d’épices douces, enveloppés dans une structure veloutée de délicats tannins tout en gardant de la fraîcheur. L’Âne de Marzin est pur et très élégant, puissant, d’un bel équilibre et une belle persistance. On croque dans le fruit, ce vin est juteux et gourmand.
+Accompagnement : Viandes rouges en sauce relevée, gibier, chocolat, fromage de chèvre.
+Garde : Ce vin peut être apprécié dès sa première année de mise en bouteille.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Marzin Bordeaux "Little Donkey" 2019 Rosé</product-name>
+<price>69</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/marzin-lane-rose</link>
+<inventory-count>100</inventory-count>
+<product-id>P02008</product-id>
+<extras>
+  <producer>Château Marzin</producer>
+  <wine-name>Bordeaux "Little Donkey"</wine-name>
+  <appellation></appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rosé</color>
+  <varietal>Merlot, Cabernet Sauvignon, Malbec</varietal>
+  <description>Dégustation : Une couleur rose intense. Des arômes fruités intenses, de petits fruits rouges frais et d’agrumes gourmands. Une caresse tendre dans la bouche, une sensation fruitée avec un goût acidulé et rafraîchissant.
+Accompagnement : Parfait pour l'apéritif.
+Garde : Ce vin peut être apprécié dès sa première année de mise en bouteille.
+</description>
+</extras>
+</product>
+
 </vivino-product-list>
