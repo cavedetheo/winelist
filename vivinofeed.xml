@@ -1119,4 +1119,76 @@ Garde : Ce vin peut être apprécié dès sa première année de mise en bouteil
 </extras>
 </product>
 
+<product>
+<product-name>Maison Bruyère et David Saint Joseph "Les Parcelles" 2020 Rouge</product-name>
+<price>150</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/saint-joseph-bruyere-et-david</link>
+<inventory-count>100</inventory-count>
+<product-id>P0003</product-id>
+<extras>
+  <producer>Maison Bruyère et David</producer>
+  <wine-name>Saint Joseph "Les Parcelles"</wine-name>
+  <appellation>Saint Joseph</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Syrah</varietal>
+  <description>Dégustation : ce Saint Joseph développe un nez aux notes de fruits rouges démontrant un vin aromatique et expressif et charnu typique de la syrah. La bouche est persistante de fruit qui s'enrichit de notes boisées.
+Accompagnement : viande grillée, charcuterie fine, terrine de viande, fromage.
+Garde : ce vin peut être apprécié dès sa première année de mise en bouteille.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Bruyère et David "Plaisir Syrah" 2020 Rouge</product-name>
+<price>96</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/plaisir-syrah-bruyere-et-david</link>
+<inventory-count>100</inventory-count>
+<product-id>P0002</product-id>
+<extras>
+  <producer>Maison Bruyère et David</producer>
+  <wine-name>"Plaisir Syrah"</wine-name>
+  <appellation></appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Syrah</varietal>
+  <description>Dégustation : Plaisir Syrah est un vin plaisant englobant fruit, rondeur, un équilibre bien maîtrisé ainsi qu'une complexité en fin de bouche.
+Accompagnement : viande ou en apéritif.
+Garde : ce vin peut être apprécié dès sa première année de mise en bouteille.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Maison Bruyère et David "Passion Viognier" 2020 Blanc</product-name>
+<price>96</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/passion-viognier-bruyere-et-david</link>
+<inventory-count>100</inventory-count>
+<product-id>P0001</product-id>
+<extras>
+  <producer>Maison Bruyère et David</producer>
+  <wine-name>"Passion Viognier"</wine-name>
+  <appellation></appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Viognier</varietal>
+  <description>Dégustation : ce vin développe les arômes typiques du viognier, pêche blanche, abricot. L'acidité bien maîtrisée ramène de la fraîcheur, minéralitée en fin de bouche.
+Accompagnement : poissons, coquillages ou en apéritif.
+Garde : ce vin peut être apprécié dès sa première année de mise en bouteille.
+</description>
+</extras>
+</product>
+
 </vivino-product-list>
