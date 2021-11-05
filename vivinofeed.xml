@@ -546,48 +546,6 @@ Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais,
 </product>
 
 <product>
-<product-name>Domaine Stéphane Ogier Côte-Rôtie "Mon village" 2019 Rouge</product-name>
-<price>286</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/côte-rôtie-stephane-ogier</link>
-<inventory-count>100</inventory-count>
-<product-id>P00205</product-id>
-<extras>
-  <producer>Domaine Stéphane Ogier</producer>
-  <wine-name>Côte-Rôtie "Mon village"</wine-name>
-  <appellation>Côte-Rôtie</appellation>
-  <vintage>2019</vintage>
-  <country>France</country>
-  <color>Rouge</color>
-  <varietal>96% Syrah / 4% Viognier</varietal>
-  <description>Capacité de vieillissement : 10 à 15 ans</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Stéphane Ogier L'âme soeur "Syrah de Seyssuel" 2018 Rouge</product-name>
-<price>286</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/ame-soeur-stephane-ogier</link>
-<inventory-count>100</inventory-count>
-<product-id>P00206</product-id>
-<extras>
-  <producer>Domaine Stéphane Ogier</producer>
-  <wine-name>L'âme soeur "Syrah de Seyssuel"</wine-name>
-  <appellation>Syrah de Seyssuel</appellation>
-  <vintage>2018</vintage>
-  <country>France</country>
-  <color>Rouge</color>
-  <varietal>96% Syrah / 4% Viognier</varietal>
-  <description>Capacité de vieillissement : 15 à 20 ans</description>
-</extras>
-</product>
-
-<product>
 <product-name>Maison Duval-Leroy Champagne Brut Réserve</product-name>
 <price>196</price>
 <quantity-is-minimum>false</quantity-is-minimum>
