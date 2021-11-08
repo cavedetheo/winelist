@@ -301,7 +301,7 @@ Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement ave
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "Caillottes" 2020 Blanc</product-name>
-<price>118</price>
+<price>102</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -347,7 +347,7 @@ Servi entre 10 et 12 degrés, ce Pouilly-Fumé s’accordera avec une salade de 
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "La Villaudière" 2020 Blanc</product-name>
-<price>105</price>
+<price>96</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -370,7 +370,7 @@ Servi entre 10-12 degrés, ce vin d’une grande personnalité vous séduira lor
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "La Villaudière" 2018 Rouge</product-name>
-<price>99</price>
+<price>90</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -417,7 +417,7 @@ Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un d
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2020 Blanc</product-name>
-<price>118</price>
+<price>108</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -569,7 +569,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy "Fleur de Champagne" 1er Cru</product-name>
-<price>216</price>
+<price>195</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -591,7 +591,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Rosé 1er Cru</product-name>
-<price>287</price>
+<price>261</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -613,7 +613,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Précieuses parcelles "Cumières" 2005 Bio</product-name>
-<price>517</price>
+<price>498</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -635,7 +635,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Blanc de blancs Grand Cru</product-name>
-<price>299</price>
+<price>288</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -657,7 +657,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Extra Brut 1er Cru</product-name>
-<price>238</price>
+<price>222</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -723,7 +723,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Précieuses parcelles "Clos des Bouveries" 2006</product-name>
-<price>517</price>
+<price>498</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
