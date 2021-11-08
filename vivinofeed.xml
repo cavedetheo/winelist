@@ -1149,4 +1149,279 @@ Garde : ce vin peut être apprécié dès sa première année de mise en bouteil
 </extras>
 </product>
 
+<product>
+<product-name>Domaine Magellan Magellan 2018 Rouge</product-name>
+<price>59</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/magellan-2018-domaine-magellan</link>
+<inventory-count>100</inventory-count>
+<product-id>P017361</product-id>
+<extras>
+  <producer>Domaine Magellan</producer>
+  <wine-name>Magellan</wine-name>
+  <appellation>AOP Languedoc</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>55% Grenache noir, 30% Syrah, 15% Carignan</varietal>
+  <description>Dégustation : Robe: rouge pourpre. Au nez: Arômes de fruits rouges et d'épices douces. En bouche: Riche fruitée et équilibrée: un vin dense et plaisant.
+Accords Mets-Vins : Viande rouge, plats épicés mais l’accord ultime... Une moussaka dans les règles de l’art.
+Service : 16°C
+Potentiel de garde : 5 à 10 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Magellan Magellan 2017 Rouge</product-name>
+<price>59</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/magellan-2017-domaine-magellan</link>
+<inventory-count>100</inventory-count>
+<product-id>P017362</product-id>
+<extras>
+  <producer>Domaine Magellan</producer>
+  <wine-name>Magellan</wine-name>
+  <appellation>AOP Languedoc</appellation>
+  <vintage>2017</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>55% Grenache noir, 30% Syrah, 15% Carignan</varietal>
+  <description>Dégustation : Robe: rouge pourpre. Au nez: Arômes de fruits rouges et d'épices douces. En bouche: Riche fruitée et équilibrée: un vin dense et plaisant.
+Accords Mets-Vins : Viande rouge, plats épicés mais l’accord ultime... Une moussaka dans les règles de l’art.
+Service : 16°C
+Potentiel de garde : 5 à 10 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Magellan Magellan Pezenas 2017 Rouge</product-name>
+<price>80</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/magellan-pezenas-2017-domaine-magellan</link>
+<inventory-count>100</inventory-count>
+<product-id>P01735</product-id>
+<extras>
+  <producer>Domaine Magellan</producer>
+  <wine-name>Magellan Pezenas</wine-name>
+  <appellation>AOP Languedoc</appellation>
+  <vintage>2017</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>Syrah et Grenache</varietal>
+  <description>Dégustation : Une belle couleur rubis lumineuse. Au nez des fruits rouges et une pointe de mûre. Et une bouche minérale et fraîche, du fruit des épices douces et un côté oranges sanguines propre au terroir de sable.
+Accords Mets-Vins : Parfait avec la cuisine méditerranéenne : l’agneau sous toutes ses formes bien sûr mais on peut rechercher des accords plus subtils avec des poissons comme des rougets ou des encornets.
+Service : 16°C
+Potentiel de garde : 5 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Magellan Magellan Grenache 2020 Rouge</product-name>
+<price>55</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/magellan-grenache-2020-domaine-magellan</link>
+<inventory-count>100</inventory-count>
+<product-id>P017363</product-id>
+<extras>
+  <producer>Domaine Magellan</producer>
+  <wine-name>Magellan Grenache</wine-name>
+  <appellation>IGP Pays d'Hérault</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Grenache</varietal>
+  <description>Dégustation : Robe rubis brillante, nez caractéristique des Grenaches sur sable avec l’orange sanguine qui domine et en bouche des notes de fruits rouges et d'épices. Les tannins sont souples et la finale rafraichissante.
+Accords Mets-Vins : A boire simplement avec des grillades mais aussi avec des tielles ou des supions à la sétoise.
+Service : 14°
+Potentiel de garde : A boire dans l'année, 2 à 3 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Magellan Magellan Pinot noir 2020 Rouge</product-name>
+<price>55</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/magellan-pinot-noir-2020-domaine-magellan</link>
+<inventory-count>100</inventory-count>
+<product-id>P017364</product-id>
+<extras>
+  <producer>Domaine Magellan</producer>
+  <wine-name>Magellan Pinot noir</wine-name>
+  <appellation>Vin de France</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Pinot noir</varietal>
+  <description>Dégustation : A l'oeil des tons violets brillants apparaissent sur une base rubis clair. Une tonalité violet brillant apparait sur une base rubis clair. Au nez de fines notes florales de violette, de framboise et d'anis complètent une certaine salinité dans ce beau vin. La bouche est juteuse mais équilibrée par des tons de sous bois, de clou de girofle. Il y a une tension subtile entre l'acidité et les tanins fins, offrant une bouche bien ronde avec une longueur attrayante.
+Accords Mets-Vins : La charcuterie, le pâté et les terrines sont d'excellents accords ainsi que les plats français classiques avec des sauces crémeuses comme le lapin ou les rognons avec une sauce à la moutarde. Le fromage de chèvre est le meilleur accord de fromage.
+Service : 16°C
+Potentiel de garde : 2 à 3 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Domaine Magellan Magellan Chardonnay 2020 Blanc</product-name>
+<price>55</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/magellan-chardonnay-2020-domaine-magellan</link>
+<inventory-count>100</inventory-count>
+<product-id>P017365</product-id>
+<extras>
+  <producer>Domaine Magellan</producer>
+  <wine-name>Magellan Chardonnay</wine-name>
+  <appellation>Vin de France</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>100% Chardonnay</varietal>
+  <description>Dégustation : Une belle couleur or vert, un nez aux arômes de fruits à noyau, de fleurs blanches, de chêne (évoquant la fermentation malolactique, mais l'acidité restante est suffisante pour maintenir l'équilibre) des notes de gingembre. La bouche est fraîche et vive, les saveurs de nectarines, de pêches et d'agrumes juteux abondent. Longueur généreuse avec une texture délicate et un fil minéral de silex.
+Accords Mets-Vins : Crustacés crus ou légèrement cuits comme le crabe et les crevettes, le poisson cuit à la vapeur ou grillé, les terrines de poisson, de poulet ou de légumes. Ou encore des pâtes ou risotto aux légumes de printemps.
+Service : 12°C
+Potentiel de garde : 2 à 3 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>La Maison Lafon Déjà Vu 2018 Rouge</product-name>
+<price>110</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/déjà-vu-2018-maison-lafon</link>
+<inventory-count>100</inventory-count>
+<product-id>P017366</product-id>
+<extras>
+  <producer>La Maison Lafon</producer>
+  <wine-name>Déjà Vu</wine-name>
+  <appellation>AOP Languedoc</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>70% Grenache, 30% Carignan</varietal>
+  <description>Dégustation : Une robe Intense et soutenue.Un vrai nez méditerranéen, à l’expression complexe de fruits et d’épices. La bouche est ample puissante tout en gardant un très bel équilibre, les tanins bien fondus.
+La note de Bruno Lafon : « Un vin au fruit explosif avec beaucoup d’énergie »
+Service : 16°C
+Potentiel de garde : 5 à 10 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>La Maison Lafon Cuvée Réservée 2016 Rouge</product-name>
+<price>110</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/cuvée-réservée-2016-la-maison-lafon</link>
+<inventory-count>100</inventory-count>
+<product-id>P017367</product-id>
+<extras>
+  <producer>La Maison Lafon</producer>
+  <wine-name>Cuvée Réservée</wine-name>
+  <appellation>AOP Languedoc</appellation>
+  <vintage>2016</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>60% Grenache, 25% Carignan, 15% Syrah</varietal>
+  <description>Dégustation : Une belle couleur rouge pourpre, un nez aux arômes de fruits rouges et d'épices, une bouche riche fruitée et équilibrée. La finale et dense et plaisante.
+Accords Mets-Vins : Viande rouge ou plats épicés
+Service : 16°C
+Potentiel de garde : 5 à 10 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>La Maison Lafon Les Temps changent 2018 Rouge</product-name>
+<price>110</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/les-temps-changent-2018-maison-lafon</link>
+<inventory-count>100</inventory-count>
+<product-id>P017368</product-id>
+<extras>
+  <producer>La Maison Lafon</producer>
+  <wine-name>Les Temps changent</wine-name>
+  <appellation>AOP Languedoc</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Syrah</varietal>
+  <description>Dégustation : L’exposition Nord Ouest et la date des vendanges donnent à ce vin une fraîcheur et un équilibre très rares en Languedoc: très floral et poivré une belle densité sans lourdeur, les tannins sont très fins et élégants.
+Accords Mets-Vins : Dans les premières années plutôt des viandes comme du pigeon rôti et avec de l'âge des civets de lapin ou lièvre.
+Service : 16°
+Potentiel de garde : 5 à 10 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>La Maison Lafon Vieilles vignes 2017 Rouge</product-name>
+<price>110</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/vieilles-vignes-2017-maison-lafon</link>
+<inventory-count>100</inventory-count>
+<product-id>P0173691</product-id>
+<extras>
+  <producer>La Maison Lafon</producer>
+  <wine-name>Vieilles vignes</wine-name>
+  <appellation>AOP Languedoc</appellation>
+  <vintage>2017</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>100% Grenache</varietal>
+  <description>Dégustation : Jolie couleur rubis, des arômes intenses de framboise et d'agrumes. Une bouche ample et ronde et une finale aux tanins fondus.
+Accords Mets-Vins : Encornets à la sétoise
+Service : 16°C
+Potentiel de garde : 5 à 10 ans
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>La Maison Lafon Magallana 2020 Blanc</product-name>
+<price>110</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/magallana-2020-maison-lafon</link>
+<inventory-count>100</inventory-count>
+<product-id>P017369</product-id>
+<extras>
+  <producer>La Maison Lafon</producer>
+  <wine-name>Magallana</wine-name>
+  <appellation>AOP Languedoc</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>40% Grenache blanc, 30% Grenache gris, 10% Vermentino, 10% Piquepoul, 10%Carignan Blanc</varietal>
+  <description>Dégustation : Jolie couleur or vert, le nez commence sur des notes intenses de poire et de chèvrefeuille, et se développe sur l'amande et une très fine touche briochée. L'attaque est sur les fruits et la fraîcheur on retrouve ensuite beaucoup de complexité, fruits secs , épices Le vin déroule ensuite avec beaucoup d'élégance, la finale est longue équilibrée sur la fraîcheur.
+Accords Mets-Vins : Magallana se marie très bien avec les plats traditionnels de la cuisine Française - volailles à la crême- poissons riches . Des accords très intéressants seront aussi obtenus avec la cuisine d'inspiration asiatique en particulier avec les plats au gingembre.
+Service : 12°
+Potentiel de garde : 5 à 10 ans
+</description>
+</extras>
+</product>
+
 </vivino-product-list>
