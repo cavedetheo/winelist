@@ -463,7 +463,7 @@ Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais,
 
 <product>
 <product-name>Maison Duval-Leroy Champagne Brut Réserve</product-name>
-<price>216</price>
+<price>204</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -485,7 +485,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy "Fleur de Champagne" 1er Cru</product-name>
-<price>234</price>
+<price>228</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -507,7 +507,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Rosé 1er Cru</product-name>
-<price>306</price>
+<price>300</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -573,7 +573,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Extra Brut 1er Cru</product-name>
-<price>252</price>
+<price>246</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
