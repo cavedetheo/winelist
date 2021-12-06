@@ -45,7 +45,7 @@
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne aligoté 2020 Blanc</product-name>
-<price>75</price>
+<price>84</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -67,7 +67,7 @@ Le Bourgogne Aligoté s’apprécie jeune et se garde 2-3 ans après la mise en 
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Côte d’Or 2020 Blanc</product-name>
-<price>106</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -89,7 +89,7 @@ Il s’apprécie à 3 ou 4 ans d’âge et accompagne toutes les entrées.</desc
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2018 Rouge</product-name>
-<price>106</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -112,7 +112,7 @@ Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en b
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2019 Rouge</product-name>
-<price>106</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -135,7 +135,7 @@ Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en b
 
 <product>
 <product-name>Domaine Gachot-Monot Beaune 1er cru "Montrevenots" 2019 Rouge</product-name>
-<price>244</price>
+<price>270</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -159,7 +159,7 @@ Apogée de 2 à 7 ans après la mise en bouteille.
 
 <product>
 <product-name>Domaine Gachot-Monot Côte de nuits-villages "En la botte" 2019 Rouge</product-name>
-<price>148</price>
+<price>168</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -181,7 +181,7 @@ Apogée de 2 à 7 ans après la mise en bouteille.
 
 <product>
 <product-name>Domaine Le Passelys Cahors "Tradition" 2018 Rouge</product-name>
-<price>89</price>
+<price>90</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -205,7 +205,7 @@ Récompense : Or au concours International Gilbert et Gaillard
 
 <product>
 <product-name>Domaine Le Passelys Cahors "Prestige" 2012 - Sélection parcellaire Rouge</product-name>
-<price>128</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -229,7 +229,7 @@ A déguster avec une cuisine du Sud Ouest, viandes grillées, en sauce, truffes,
 
 <product>
 <product-name>Domaine Le Passelys Cahors "Prestige" 2017 - Sélection parcellaire Rouge</product-name>
-<price>104</price>
+<price>102</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -254,7 +254,7 @@ Récompense : Argent au concours des Vignerons Indépendants
 
 <product>
 <product-name>Domaine Le Passelys "Colibri" 2020 Blanc</product-name>
-<price>116</price>
+<price>114</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -278,7 +278,7 @@ A déguster sur poissons, fruits du mer et fromages.
 
 <product>
 <product-name>Domaine Le Passelys "Colibri" 2020 Rouge</product-name>
-<price>100</price>
+<price>114</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -301,7 +301,7 @@ Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement ave
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "Caillottes" 2020 Blanc</product-name>
-<price>102</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -324,7 +324,7 @@ Servi entre 10 et 12 degrés, ce vin vous accompagnera lors d'un repas gastronom
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Pouilly-Fumé "La Villaudière" 2020 Blanc</product-name>
-<price>102</price>
+<price>108</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -347,7 +347,7 @@ Servi entre 10 et 12 degrés, ce Pouilly-Fumé s’accordera avec une salade de 
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "La Villaudière" 2020 Blanc</product-name>
-<price>96</price>
+<price>111</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -370,7 +370,7 @@ Servi entre 10-12 degrés, ce vin d’une grande personnalité vous séduira lor
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "La Villaudière" 2018 Rouge</product-name>
-<price>90</price>
+<price>102</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -394,7 +394,7 @@ Potentiel de garde : 8 à 10 ans.
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "Terres blanches" 2020 Blanc</product-name>
-<price>118</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -417,7 +417,7 @@ Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un d
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2020 Blanc</product-name>
-<price>108</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -440,7 +440,7 @@ Servi entre 10 et 12 degrés, ce vin illuminera vos repas raffinés. Agréable s
 
 <product>
 <product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2018 Rouge</product-name>
-<price>103</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -462,92 +462,8 @@ Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais,
 </product>
 
 <product>
-<product-name>Domaine Stéphane Ogier Viognier de Rosine 2020 Blanc</product-name>
-<price>145</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/viognier-stephane-ogier</link>
-<inventory-count>100</inventory-count>
-<product-id>P00201</product-id>
-<extras>
-  <producer>Domaine Stéphane Ogier</producer>
-  <wine-name>Viognier de Rosine</wine-name>
-  <appellation>Viognier</appellation>
-  <vintage>2020</vintage>
-  <country>France</country>
-  <color>Blanc</color>
-  <varietal>100% Viognier</varietal>
-  <description>Capacité de vieillissement : 4-5 ans</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Stéphane Ogier Condrieu "La combe de Malleval" 2020 Blanc</product-name>
-<price>255</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/condrieu-stephane-ogier</link>
-<inventory-count>100</inventory-count>
-<product-id>P00202</product-id>
-<extras>
-  <producer>Domaine Stéphane Ogier</producer>
-  <wine-name>Condrieu "La combe de Malleval"</wine-name>
-  <appellation>Condrieu</appellation>
-  <vintage>2020</vintage>
-  <country>France</country>
-  <color>Blanc</color>
-  <varietal>100% Viognier</varietal>
-  <description>Capacité de vieillissement : 5-8 ans</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Stéphane Ogier Saint Joseph "Le passage" 2019 Rouge</product-name>
-<price>161</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/saint-joseph-stephane-ogier</link>
-<inventory-count>100</inventory-count>
-<product-id>P00203</product-id>
-<extras>
-  <producer>Domaine Stéphane Ogier</producer>
-  <wine-name>Saint Joseph "Le passage"</wine-name>
-  <appellation>Saint Joseph</appellation>
-  <vintage>2019</vintage>
-  <country>France</country>
-  <color>Rouge</color>
-  <varietal>100% Syrah</varietal>
-  <description>Capacité de vieillissement : 5 à 10 ans</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Stéphane Ogier La Rosine 2019 Rouge</product-name>
-<price>135</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/rosine-stephane-ogier</link>
-<inventory-count>100</inventory-count>
-<product-id>P00204</product-id>
-<extras>
-  <producer>Domaine Stéphane Ogier</producer>
-  <wine-name>La Rosine</wine-name>
-  <appellation></appellation>
-  <vintage>2019</vintage>
-  <country>France</country>
-  <color>Rouge</color>
-  <varietal>98% Syrah / 2% Viognier</varietal>
-  <description>Capacité de vieillissement : 5 à 10 ans</description>
-</extras>
-</product>
-
-<product>
 <product-name>Maison Duval-Leroy Champagne Brut Réserve</product-name>
-<price>196</price>
+<price>216</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -569,7 +485,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy "Fleur de Champagne" 1er Cru</product-name>
-<price>195</price>
+<price>234</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -591,7 +507,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Rosé 1er Cru</product-name>
-<price>261</price>
+<price>306</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -613,7 +529,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Précieuses parcelles "Cumières" 2005 Bio</product-name>
-<price>498</price>
+<price>540</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -657,7 +573,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Extra Brut 1er Cru</product-name>
-<price>222</price>
+<price>252</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -679,7 +595,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy "Femme de Champagne" Brut Grand Cru</product-name>
-<price>479</price>
+<price>510</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -701,7 +617,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Précieuses parcelles "Petit Meslier" 2008</product-name>
-<price>517</price>
+<price>540</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -722,52 +638,8 @@ Servir en 8° et 10°</description>
 </product>
 
 <product>
-<product-name>Maison Duval-Leroy Précieuses parcelles "Clos des Bouveries" 2006</product-name>
-<price>498</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/bouveries-duval-leroy</link>
-<inventory-count>100</inventory-count>
-<product-id>P01667</product-id>
-<extras>
-  <producer>Maison Duval-Leroy</producer>
-  <wine-name>Précieuses parcelles "Clos des Bouveries"</wine-name>
-  <appellation>Champagne</appellation>
-  <vintage>2006</vintage>
-  <country>France</country>
-  <color>Extra brut</color>
-  <varietal>100% Chardonnay</varietal>
-  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
-Servir en 8° et 10°</description>
-</extras>
-</product>
-
-<product>
-<product-name>Maison Duval-Leroy Précieuses parcelles "Bouzy" Grand Cru 2007 Bio</product-name>
-<price>517</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/bouzy-duval-leroy</link>
-<inventory-count>100</inventory-count>
-<product-id>PXXXX</product-id>
-<extras>
-  <producer>Maison Duval-Leroy</producer>
-  <wine-name>Précieuses parcelles "Bouzy" Grand Cru</wine-name>
-  <appellation>Champagne</appellation>
-  <vintage>2007</vintage>
-  <country>France</country>
-  <color>Extra brut</color>
-  <varietal>100% Pinot noir</varietal>
-  <description>L’ensemble du vignoble familial est certifié HVE niveau 3 et Viticulture Durable en Champagne. 
-Servir en 8° et 10°</description>
-</extras>
-</product>
-
-<product>
 <product-name>Domaine Bru-Baché Jurançon 2019 Blanc</product-name>
-<price>90</price>
+<price>96</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -792,7 +664,7 @@ Goût : équilibre sucre - acidité
 
 <product>
 <product-name>Domaine Bru-Baché Jurançon "Les Castérasses" 2019 Blanc</product-name>
-<price>105</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -818,7 +690,7 @@ Goût : structuré et équilibré entre sucre et acidité
 
 <product>
 <product-name>Domaine Bru-Baché Jurançon "L'Eminence" 2018 Blanc</product-name>
-<price>398</price>
+<price>408</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -843,7 +715,7 @@ Goût : puissant et frais
 
 <product>
 <product-name>Domaine Bru-Baché Jurançon "La Quintessence" 2019 Blanc</product-name>
-<price>160</price>
+<price>168</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -868,7 +740,7 @@ Goût : équilibre sucre – acidité avec beaucoup de longueur
 
 <product>
 <product-name>Domaine Bru-Baché Jurançon sec 2019 Blanc</product-name>
-<price>72</price>
+<price>102</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -918,7 +790,7 @@ Goût : riche et équilibré
 
 <product>
 <product-name>Château Ferreyres Bellevue Bordeaux supérieur 2016 Rouge</product-name>
-<price>66</price>
+<price>78</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -943,7 +815,7 @@ Servir à 16°
 
 <product>
 <product-name>Château Ferreyres Bordeaux 2019 Rouge</product-name>
-<price>60</price>
+<price>72</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -968,7 +840,7 @@ Servir à 16°
 
 <product>
 <product-name>Château Fontaine De L'aubier AOC Médoc 2015 Rouge</product-name>
-<price>72</price>
+<price>90</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -989,7 +861,7 @@ Servir à 16°
 
 <product>
 <product-name>Château L'inclassable AOC Médoc 2015 Rouge</product-name>
-<price>111</price>
+<price>126</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1010,7 +882,7 @@ Servir à 16°
 
 <product>
 <product-name>Château L'inclassable AOC Médoc "L'Inclassable vegan" 2016 Rouge</product-name>
-<price>93</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1031,7 +903,7 @@ Servir à 16°
 
 <product>
 <product-name>Château Marzin Bordeaux "L'Âne" 2016 Rouge</product-name>
-<price>123</price>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1055,7 +927,7 @@ Garde : Ce vin peut être apprécié dès sa première année de mise en bouteil
 
 <product>
 <product-name>Château Marzin Bordeaux "Little Donkey" 2019 Rosé</product-name>
-<price>69</price>
+<price>72</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1151,7 +1023,7 @@ Garde : ce vin peut être apprécié dès sa première année de mise en bouteil
 
 <product>
 <product-name>Domaine Magellan Magellan 2018 Rouge</product-name>
-<price>59</price>
+<price>72</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1176,7 +1048,7 @@ Potentiel de garde : 5 à 10 ans
 
 <product>
 <product-name>Domaine Magellan Magellan 2017 Rouge</product-name>
-<price>59</price>
+<price>72</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1201,7 +1073,7 @@ Potentiel de garde : 5 à 10 ans
 
 <product>
 <product-name>Domaine Magellan Magellan Pezenas 2017 Rouge</product-name>
-<price>80</price>
+<price>84</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1226,7 +1098,7 @@ Potentiel de garde : 5 ans
 
 <product>
 <product-name>Domaine Magellan Magellan Grenache 2020 Rouge</product-name>
-<price>55</price>
+<price>72</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1251,7 +1123,7 @@ Potentiel de garde : A boire dans l'année, 2 à 3 ans
 
 <product>
 <product-name>Domaine Magellan Magellan Pinot noir 2020 Rouge</product-name>
-<price>55</price>
+<price>66</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1276,7 +1148,7 @@ Potentiel de garde : 2 à 3 ans
 
 <product>
 <product-name>Domaine Magellan Magellan Chardonnay 2020 Blanc</product-name>
-<price>55</price>
+<price>66</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1301,7 +1173,7 @@ Potentiel de garde : 2 à 3 ans
 
 <product>
 <product-name>La Maison Lafon Déjà Vu 2018 Rouge</product-name>
-<price>110</price>
+<price>114</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1326,7 +1198,7 @@ Potentiel de garde : 5 à 10 ans
 
 <product>
 <product-name>La Maison Lafon Cuvée Réservée 2016 Rouge</product-name>
-<price>110</price>
+<price>114</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1351,7 +1223,7 @@ Potentiel de garde : 5 à 10 ans
 
 <product>
 <product-name>La Maison Lafon Les Temps changent 2018 Rouge</product-name>
-<price>110</price>
+<price>114</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1376,7 +1248,7 @@ Potentiel de garde : 5 à 10 ans
 
 <product>
 <product-name>La Maison Lafon Vieilles vignes 2017 Rouge</product-name>
-<price>110</price>
+<price>114</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -1401,7 +1273,7 @@ Potentiel de garde : 5 à 10 ans
 
 <product>
 <product-name>La Maison Lafon Magallana 2020 Blanc</product-name>
-<price>110</price>
+<price>114</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
