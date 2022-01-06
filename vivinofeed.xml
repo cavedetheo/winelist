@@ -180,7 +180,7 @@ Apogée de 2 à 7 ans après la mise en bouteille.
 </product>
 
 <product>
-<product-name>Domaine Le Passelys Cahors "Tradition" 2018 Rouge</product-name>
+<product-name>Domaine Le Passelys Cahors "Tradition" 2020 Rouge</product-name>
 <price>90</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -192,7 +192,7 @@ Apogée de 2 à 7 ans après la mise en bouteille.
   <producer>Domaine Le Passelys</producer>
   <wine-name>Cahors "Tradition"</wine-name>
   <appellation>Cahors</appellation>
-  <vintage>2018</vintage>
+  <vintage>2020</vintage>
   <country>France</country>
   <color>Rouge</color>
   <varietal>85% Malbec, 15% Merlot</varietal>
@@ -204,7 +204,7 @@ Récompense : Or au concours International Gilbert et Gaillard
 </product>
 
 <product>
-<product-name>Domaine Le Passelys Cahors "Prestige" 2012 - Sélection parcellaire Rouge</product-name>
+<product-name>Domaine Le Passelys Cahors "Prestige" 2015 - Sélection parcellaire Rouge</product-name>
 <price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -216,7 +216,7 @@ Récompense : Or au concours International Gilbert et Gaillard
   <producer>Domaine Le Passelys</producer>
   <wine-name>Cahors "Prestige"</wine-name>
   <appellation>Cahors</appellation>
-  <vintage>2012</vintage>
+  <vintage>2015</vintage>
   <country>France</country>
   <color>Rouge</color>
   <varietal>100% Malbec</varietal>
@@ -228,7 +228,7 @@ A déguster avec une cuisine du Sud Ouest, viandes grillées, en sauce, truffes,
 </product>
 
 <product>
-<product-name>Domaine Le Passelys Cahors "Prestige" 2017 - Sélection parcellaire Rouge</product-name>
+<product-name>Domaine Le Passelys Cahors "Prestige" 2018 - Sélection parcellaire Rouge</product-name>
 <price>102</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -240,7 +240,7 @@ A déguster avec une cuisine du Sud Ouest, viandes grillées, en sauce, truffes,
   <producer>Domaine Le Passelys</producer>
   <wine-name>Cahors "Prestige"</wine-name>
   <appellation>Cahors</appellation>
-  <vintage>2017</vintage>
+  <vintage>2018</vintage>
   <country>France</country>
   <color>Rouge</color>
   <varietal>100% Malbec</varietal>
@@ -248,30 +248,6 @@ A déguster avec une cuisine du Sud Ouest, viandes grillées, en sauce, truffes,
 A Déguster avec une cuisine du Sud Ouest, viandes grillées, en sauce, truffes, gibiers, confits, fromages et chocolats. 
 Garde : 10 à 12 ans. 
 Récompense : Argent au concours des Vignerons Indépendants
-</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Le Passelys "Colibri" 2020 Blanc</product-name>
-<price>114</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/colibri-passelys</link>
-<inventory-count>100</inventory-count>
-<product-id>P01535</product-id>
-<extras>
-  <producer>Domaine Le Passelys</producer>
-  <wine-name>"Colibri"</wine-name>
-  <appellation></appellation>
-  <vintage>2020</vintage>
-  <country>France</country>
-  <color>Blanc</color>
-  <varietal>Souvignier gris, Muscaris</varietal>
-  <description>Un vin innovant, engagé qui ravira vos papilles. 
-Ces cépages sont le fruit d'un mariage entre deux variétés, l'une naturellement peu sensible aux maladies de la vigne et l'autre mondialement reconnue pour ces qualités organoleptiques. Ils nous ont permit d'obtenir ce vin en limitant à plus de 95 % les traitements utilisés en agriculture biologique ou biodynamique. 
-A déguster sur poissons, fruits du mer et fromages.
 </description>
 </extras>
 </product>
@@ -1035,31 +1011,6 @@ Garde : ce vin peut être apprécié dès sa première année de mise en bouteil
   <wine-name>Magellan</wine-name>
   <appellation>AOP Languedoc</appellation>
   <vintage>2018</vintage>
-  <country>France</country>
-  <color>Rouge</color>
-  <varietal>55% Grenache noir, 30% Syrah, 15% Carignan</varietal>
-  <description>Dégustation : Robe: rouge pourpre. Au nez: Arômes de fruits rouges et d'épices douces. En bouche: Riche fruitée et équilibrée: un vin dense et plaisant.
-Accords Mets-Vins : Viande rouge, plats épicés mais l’accord ultime... Une moussaka dans les règles de l’art.
-Service : 16°C
-Potentiel de garde : 5 à 10 ans
-</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Magellan Magellan 2017 Rouge</product-name>
-<price>72</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/magellan-2017-domaine-magellan</link>
-<inventory-count>100</inventory-count>
-<product-id>P017362</product-id>
-<extras>
-  <producer>Domaine Magellan</producer>
-  <wine-name>Magellan</wine-name>
-  <appellation>AOP Languedoc</appellation>
-  <vintage>2017</vintage>
   <country>France</country>
   <color>Rouge</color>
   <varietal>55% Grenache noir, 30% Syrah, 15% Carignan</varietal>
