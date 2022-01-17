@@ -45,7 +45,7 @@
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne aligoté 2020 Blanc</product-name>
-<price>95</price>
+<price>90</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -67,7 +67,7 @@ Le Bourgogne Aligoté s’apprécie jeune et se garde 2-3 ans après la mise en 
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Côte d’Or 2020 Blanc</product-name>
-<price>135</price>
+<price>125</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -89,7 +89,7 @@ Il s’apprécie à 3 ou 4 ans d’âge et accompagne toutes les entrées.</desc
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2018 Rouge</product-name>
-<price>135</price>
+<price>115</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -112,7 +112,7 @@ Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en b
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2019 Rouge</product-name>
-<price>135</price>
+<price>115</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -135,7 +135,7 @@ Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en b
 
 <product>
 <product-name>Domaine Gachot-Monot Beaune 1er cru "Montrevenots" 2019 Rouge</product-name>
-<price>295</price>
+<price>270</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -159,7 +159,7 @@ Apogée de 2 à 7 ans après la mise en bouteille.
 
 <product>
 <product-name>Domaine Gachot-Monot Côte de nuits-villages "En la botte" 2019 Rouge</product-name>
-<price>185</price>
+<price>162</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
