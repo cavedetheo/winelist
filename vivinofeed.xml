@@ -879,30 +879,6 @@ Garde : Ce vin peut être apprécié dès sa première année de mise en bouteil
 </product>
 
 <product>
-<product-name>Château Marzin Bordeaux "Little Donkey" 2019 Rosé</product-name>
-<price>72</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/marzin-lane-rose</link>
-<inventory-count>100</inventory-count>
-<product-id>P02008</product-id>
-<extras>
-  <producer>Château Marzin</producer>
-  <wine-name>Bordeaux "Little Donkey"</wine-name>
-  <appellation></appellation>
-  <vintage>2019</vintage>
-  <country>France</country>
-  <color>Rosé</color>
-  <varietal>Merlot, Cabernet Sauvignon, Malbec</varietal>
-  <description>Dégustation : Une couleur rose intense. Des arômes fruités intenses, de petits fruits rouges frais et d’agrumes gourmands. Une caresse tendre dans la bouche, une sensation fruitée avec un goût acidulé et rafraîchissant.
-Accompagnement : Parfait pour l'apéritif.
-Garde : Ce vin peut être apprécié dès sa première année de mise en bouteille.
-</description>
-</extras>
-</product>
-
-<product>
 <product-name>Maison Bruyère et David Saint Joseph "Les Parcelles" 2020 Rouge</product-name>
 <price>135</price>
 <quantity-is-minimum>false</quantity-is-minimum>
