@@ -276,7 +276,7 @@ Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement ave
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "Caillottes" 2020 Blanc</product-name>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Caillottes" 2021 Blanc</product-name>
 <price>125</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -288,7 +288,7 @@ Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement ave
   <producer>Domaine J.M. Reverdy et fils</producer>
   <wine-name>Sancerre "Caillottes"</wine-name>
   <appellation>Sancerre</appellation>
-  <vintage>2020</vintage>
+  <vintage>2021</vintage>
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
@@ -299,7 +299,7 @@ Servi entre 10 et 12 degrés, ce vin vous accompagnera lors d'un repas gastronom
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Pouilly-Fumé "La Villaudière" 2020 Blanc</product-name>
+<product-name>Domaine J.M. Reverdy et fils Pouilly-Fumé "La Villaudière" 2021 Blanc</product-name>
 <price>110</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -311,7 +311,7 @@ Servi entre 10 et 12 degrés, ce vin vous accompagnera lors d'un repas gastronom
   <producer>Domaine J.M. Reverdy et fils</producer>
   <wine-name>Pouilly-Fumé "La Villaudière"</wine-name>
   <appellation>Pouilly-Fumé</appellation>
-  <vintage>2020</vintage>
+  <vintage>2021</vintage>
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
@@ -346,7 +346,7 @@ Potentiel de garde : 8 à 10 ans.
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "Terres blanches" 2020 Blanc</product-name>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Terres blanches" 2021 Blanc</product-name>
 <price>125</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -358,7 +358,7 @@ Potentiel de garde : 8 à 10 ans.
   <producer>Domaine J.M. Reverdy et fils</producer>
   <wine-name>Sancerre "Terres blanches"</wine-name>
   <appellation>Sancerre</appellation>
-  <vintage>2020</vintage>
+  <vintage>2021</vintage>
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
@@ -369,7 +369,7 @@ Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un d
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2020 Blanc</product-name>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2021 Blanc</product-name>
 <price>125</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -381,7 +381,7 @@ Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un d
   <producer>Domaine J.M. Reverdy et fils</producer>
   <wine-name>Sancerre "Silex"</wine-name>
   <appellation>Sancerre</appellation>
-  <vintage>2020</vintage>
+  <vintage>2021</vintage>
   <country>France</country>
   <color>Blanc</color>
   <varietal>Sauvignon</varietal>
@@ -392,7 +392,7 @@ Servi entre 10 et 12 degrés, ce vin illuminera vos repas raffinés. Agréable s
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2018 Rouge</product-name>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2019 Rouge</product-name>
 <price>115</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -404,7 +404,7 @@ Servi entre 10 et 12 degrés, ce vin illuminera vos repas raffinés. Agréable s
   <producer>Domaine J.M. Reverdy et fils</producer>
   <wine-name>Sancerre "Silex"</wine-name>
   <appellation>Sancerre</appellation>
-  <vintage>2018</vintage>
+  <vintage>2019</vintage>
   <country>France</country>
   <color>Rouge</color>
   <varietal>Pinot noir</varietal>
