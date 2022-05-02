@@ -1200,4 +1200,293 @@ Potentiel de garde : 5 à 10 ans
 </extras>
 </product>
 
+<product>
+<product-name>Clos Dominique Bordeaux Supérieur Autrement 2019 Rouge</product-name>
+<price>78</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bordeaux-supérieur-autrement-2019-clos-dominique</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A1</product-id>
+<extras>
+  <producer>Clos Dominique</producer>
+  <wine-name>Autrement</wine-name>
+  <appellation>Bordeaux Supérieur</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>Cabernet franc, Cabernet-Sauvignon et Merlot</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Fontvieille Côtes de Bourg 2019 Rouge</product-name>
+<price>72</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/côtes-de-bourg-2019-chateau-fontvieille</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A2</product-id>
+<extras>
+  <producer>Château Fontvieille</producer>
+  <wine-name>Côtes de Bourg</wine-name>
+  <appellation>Côtes de Bourg</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>80% Merlot, 20% Malbec</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Haut-Goujon Montagne Saint-Emilion 2016 Rouge</product-name>
+<price>114</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/montagne-saint-emilion-2016-chateau-haut-goujon</link>
+<inventory-count>100</inventory-count>
+<product-id>P02001</product-id>
+<extras>
+  <producer>Château Haut-Goujon</producer>
+  <wine-name>Montagne Saint-Emilion</wine-name>
+  <appellation>Montagne Saint-Emilion</appellation>
+  <vintage>2016</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>75% Merlot, 25% Cabernet Sauvignon</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Le Bruilleau Pessac-Leognan 2018 Rouge</product-name>
+<price>114</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/pessac-leognan-2018-chateau-le-bruilleau</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A3</product-id>
+<extras>
+  <producer>Château Le Bruilleau</producer>
+  <wine-name>Pessac-Leognan</wine-name>
+  <appellation>Pessac-Leognan</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>Cabernet Franc, Merlot et Cabernet Sauvignon</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>En tête à tête Bordeaux Bio 2020 Rouge</product-name>
+<price>84</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bordeaux-bio-2020-en-tête</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A4</product-id>
+<extras>
+  <producer>En tête à tête</producer>
+  <wine-name>Bordeaux Bio</wine-name>
+  <appellation>Bordeaux</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal></varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Grains de cocotte IGP charentais 2020 Rouge</product-name>
+<price>60</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/igp-charentais-2020-grains-de-cocotte</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A5</product-id>
+<extras>
+  <producer>Grains de cocotte</producer>
+  <wine-name>IGP charentais</wine-name>
+  <appellation>IGP charentais</appellation>
+  <vintage>2020</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>Cabernet Sauvignon, Merlot</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Grains de cocotte IGP charentais 2021 Blanc</product-name>
+<price>60</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/igp-charentais-2021-grains-de-cocotte</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A6</product-id>
+<extras>
+  <producer>Grains de cocotte</producer>
+  <wine-name>IGP charentais</wine-name>
+  <appellation>IGP charentais</appellation>
+  <vintage>2021</vintage>
+  <country>France</country>
+  <color>Blanc</color>
+  <varietal>Sauvignon, Chardonnay</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Grains de cocotte IGP charentais 2021 Rosé</product-name>
+<price>60</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/igp-charentais-2021-rosé-grains-de-cocotte</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A7</product-id>
+<extras>
+  <producer>Grains de cocotte</producer>
+  <wine-name>IGP charentais</wine-name>
+  <appellation>IGP charentais</appellation>
+  <vintage>2021</vintage>
+  <country>France</country>
+  <color>Rosé</color>
+  <varietal>100% Cabernet Franc</varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Repas entre amis Saint-Emilion Grand Cru Bio 2018 Rouge</product-name>
+<price>126</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/saint-emilion-grand-cru-bio-2018-repas-entre-amis</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A8</product-id>
+<extras>
+  <producer>Repas entre amis</producer>
+  <wine-name>Saint-Emilion Grand Cru</wine-name>
+  <appellation>Saint-Emilion Grand Cru</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal></varietal>
+  <description></description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Ferreyres Bellevue Bordeaux supérieur 2016 Rouge</product-name>
+<price>67</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bordeaux-supérieur-2016-chateau-ferreyres-bellevue</link>
+<inventory-count>100</inventory-count>
+<product-id>P02002</product-id>
+<extras>
+  <producer>Château Ferreyres Bellevue</producer>
+  <wine-name>Bordeaux supérieur</wine-name>
+  <appellation>Bordeaux supérieur</appellation>
+  <vintage>2016</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>85% merlot, 15% cabernet franc</varietal>
+  <description>Dégustation : Au nez, des arômes puissants viennent à votre rencontre, on y trouve des notes de fruits mûrs, cassis et cerise. La bouche reprend avec gourmandise ces parums, accompagnés de tanins longs et soyeux.
+Accords : Ce vin accompagnera parfaitement une terrine de campagne,  des viandes rôties fondantes (porc, bœuf, lapin). Les tanins longs et soyeux s'associent aux champignons sauvages. Pour le fromage, privilégier les pâtes pressées non cuites comme le Cantal, la Tome de Savoie ou la Mimolette. 
+Garde : Peut être consommé rapidement pour les amateurs de vins jeunes et puissants. Il atteindra sa maturité après 4 ou 5 ans. Il peut être conservé jusqu'à 10 ans pour les plus patients.
+Servir à 16°
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Cazette Bordeaux "Cuvée Joseph" 2019 Rouge</product-name>
+<price>55</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/bordeaux-cuvée-joseph-2019-chateau-cazette</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A9</product-id>
+<extras>
+  <producer>Château Cazette</producer>
+  <wine-name>Cuvée Joseph</wine-name>
+  <appellation>Bordeaux</appellation>
+  <vintage>2019</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>50% merlot, 50% malbec</varietal>
+  <description>Terroir : Argilo - Calcaire
+Vinification : Traditionnelle en cuve inox. Durée de cuvaison 1 mois.
+Dégustation : Vin à la robe soutenue, nez sur le fruit rouge, fruits mur et de légère notes boisées. Bonne structure en bouche, finale agréable. 
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Peyroutas Saint-Emilion Grand Cru Bio 2018 Rouge</product-name>
+<price>123</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/château-peyroutas</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A10</product-id>
+<extras>
+  <producer>Château Peyroutas</producer>
+  <wine-name>Saint-Emilion Grand Cru</wine-name>
+  <appellation>Saint-Emilion Grand Cru</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>70% Merlot, 20% Cabernet Franc, 10% Cabernet Sauvignon</varietal>
+  <description>Terroir : Sablo-Argileux 
+Vignification : 10 à 15 mois, 80% barrique, 20% cuves
+Dégustation : Elégante robe violine nette et profonde. Au nez, des senteurs toastées de café, moka. Une fois aéré, des arômes de tarte aux fruits noirs apparaissent puis de franche saveurs de cerise burlas. En bouche, une attaque puissante et large, retrouvant les nuances exprimées au nez : fruits des bois, myrtilles. Les tannins sont fins.
+Garde : Grande garde. Ce vin peut être apprécié après 2 ans de vieillissement et atteint sa maturité à partir de 5 ans.
+Accompagnement : Viandes rouges en sauce relevée, gibier, chocolat, fromage de chèvre.
+</description>
+</extras>
+</product>
+
+<product>
+<product-name>Château Gory Bordeaux AOC Bio 2018 Rouge</product-name>
+<price>66</price>
+<quantity-is-minimum>false</quantity-is-minimum>
+<bottle_size>750 ml</bottle_size>
+<bottle_quantity>6</bottle_quantity>
+<link>https://www.cavedetheo.com/product-page/château-gory</link>
+<inventory-count>100</inventory-count>
+<product-id>P02009A11</product-id>
+<extras>
+  <producer>Château Gory</producer>
+  <wine-name>Bordeaux AOC</wine-name>
+  <appellation>Bordeaux AOC</appellation>
+  <vintage>2018</vintage>
+  <country>France</country>
+  <color>Rouge</color>
+  <varietal>50% Merlot, 20% Malbec, 20% Cabernet Franc, 10% Cabernet Sauvignon</varietal>
+  <description>Terroir : Argilo-sableux
+Vignification : 6 mois en cuves inox et ciment
+Garde : Ce vin peut être apprécié dès sa première année de mise en bouteille.
+Dégustation : Belle robe grenat. Au nez remarquable expression de fruits rouges et noirs frais écrasés. La bouche représente bien ces arômes également avec des notes florales, fruits rouges et fruits noirs. Un vin équilibré et sur le fruit, facile à boire.
+</description>
+</extras>
+</product>
+
 </vivino-product-list>
