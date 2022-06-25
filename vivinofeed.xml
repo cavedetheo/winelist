@@ -830,30 +830,6 @@ Servir à 16°
 </product>
 
 <product>
-<product-name>Maison Bruyère et David Saint Joseph "Les Parcelles" 2020 Rouge</product-name>
-<price>135</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/saint-joseph-bruyere-et-david</link>
-<inventory-count>100</inventory-count>
-<product-id>P0003</product-id>
-<extras>
-  <producer>Maison Bruyère et David</producer>
-  <wine-name>Saint Joseph "Les Parcelles"</wine-name>
-  <appellation>Saint Joseph</appellation>
-  <vintage>2020</vintage>
-  <country>France</country>
-  <color>Rouge</color>
-  <varietal>100% Syrah</varietal>
-  <description>Dégustation : ce Saint Joseph développe un nez aux notes de fruits rouges démontrant un vin aromatique et expressif et charnu typique de la syrah. La bouche est persistante de fruit qui s'enrichit de notes boisées.
-Accompagnement : viande grillée, charcuterie fine, terrine de viande, fromage.
-Garde : ce vin peut être apprécié dès sa première année de mise en bouteille.
-</description>
-</extras>
-</product>
-
-<product>
 <product-name>Maison Bruyère et David "Plaisir Syrah" 2021 Rouge</product-name>
 <price>89</price>
 <quantity-is-minimum>false</quantity-is-minimum>
