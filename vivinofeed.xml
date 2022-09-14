@@ -1191,27 +1191,6 @@ Potentiel de garde : 5 à 10 ans
 </product>
 
 <product>
-<product-name>Château Le Bruilleau Pessac-Leognan 2018 Rouge</product-name>
-<price>114</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/pessac-leognan-2018-chateau-le-bruilleau</link>
-<inventory-count>100</inventory-count>
-<product-id>P02009A3</product-id>
-<extras>
-  <producer>Château Le Bruilleau</producer>
-  <wine-name>Pessac-Leognan</wine-name>
-  <appellation>Pessac-Leognan</appellation>
-  <vintage>2018</vintage>
-  <country>France</country>
-  <color>Rouge</color>
-  <varietal>Cabernet Franc, Merlot et Cabernet Sauvignon</varietal>
-  <description></description>
-</extras>
-</product>
-
-<product>
 <product-name>En tête à tête Bordeaux Bio 2020 Rouge</product-name>
 <price>84</price>
 <quantity-is-minimum>false</quantity-is-minimum>
