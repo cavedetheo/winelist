@@ -45,7 +45,7 @@
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne aligoté 2020 Blanc</product-name>
-<price>90</price>
+<price>96</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -67,7 +67,7 @@ Le Bourgogne Aligoté s’apprécie jeune et se garde 2-3 ans après la mise en 
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Côte d’Or 2020 Blanc</product-name>
-<price>125</price>
+<price>132</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -89,7 +89,7 @@ Il s’apprécie à 3 ou 4 ans d’âge et accompagne toutes les entrées.</desc
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2018 Rouge</product-name>
-<price>115</price>
+<price>126</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -112,7 +112,7 @@ Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en b
 
 <product>
 <product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2019 Rouge</product-name>
-<price>115</price>
+<price>126</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -159,7 +159,7 @@ Apogée de 2 à 7 ans après la mise en bouteille.
 
 <product>
 <product-name>Domaine Gachot-Monot Côte de nuits-villages "En la botte" 2019 Rouge</product-name>
-<price>162</price>
+<price>174</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -416,7 +416,7 @@ Servi entre 12 et 14 degrés, ce vin offre un excellent potentiel de garde mais,
 
 <product>
 <product-name>Maison Duval-Leroy Champagne Brut Réserve</product-name>
-<price>204</price>
+<price>210</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -438,7 +438,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy "Fleur de Champagne" 1er Cru</product-name>
-<price>225</price>
+<price>228</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -460,7 +460,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Rosé 1er Cru</product-name>
-<price>300</price>
+<price>312</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -482,7 +482,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Précieuses parcelles "Cumières" 2005 Bio</product-name>
-<price>540</price>
+<price>570</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -504,7 +504,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Blanc de Blancs Brut Champagne Grand Cru N.V.</product-name>
-<price>300</price>
+<price>312</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -526,7 +526,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Prestige Extra Brut 1er Cru</product-name>
-<price>240</price>
+<price>252</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -548,7 +548,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy "Femme de Champagne" Brut Grand Cru</product-name>
-<price>510</price>
+<price>588</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -570,7 +570,7 @@ Servir en 8° et 10°</description>
 
 <product>
 <product-name>Maison Duval-Leroy Précieuses parcelles "Petit Meslier" 2008</product-name>
-<price>540</price>
+<price>570</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
