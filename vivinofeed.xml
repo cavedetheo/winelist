@@ -788,7 +788,7 @@ Servir à 16°
 </product>
 
 <product>
-<product-name>Château L'inclassable AOC Médoc 2012 Rouge</product-name>
+<product-name>Château L'inclassable AOC Médoc 2015 Rouge</product-name>
 <price>126</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -800,7 +800,7 @@ Servir à 16°
   <producer>Château L'inclassable</producer>
   <wine-name>AOC Médoc</wine-name>
   <appellation></appellation>
-  <vintage>2012</vintage>
+  <vintage>2015</vintage>
   <country>France</country>
   <color>Rouge</color>
   <varietal>55% Cabernet sauvignon, 28% Petit verdot, 12% Merlot, 5% Cabernet franc</varietal>
