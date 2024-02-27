@@ -23,7 +23,7 @@
 </product>
 
 <product>
-<product-name>Domaine Eyguestre Côtes-du-Rhône Séguret "Le Maupas" 2020 Blanc</product-name>
+<product-name>Domaine Eyguestre Côtes-du-Rhône Séguret "Le Maupas" 2022 Blanc</product-name>
 <price>83</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -44,8 +44,8 @@
 </product>
 
 <product>
-<product-name>Domaine Gachot-Monot Bourgogne aligoté 2020 Blanc</product-name>
-<price>101</price>
+<product-name>Domaine Gachot-Monot Bourgogne aligoté 2022 Blanc</product-name>
+<price>110</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -66,30 +66,8 @@ Le Bourgogne Aligoté s’apprécie jeune et se garde 2-3 ans après la mise en 
 </product>
 
 <product>
-<product-name>Domaine Gachot-Monot Bourgogne Côte d’Or 2020 Blanc</product-name>
-<price>137</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/bourgogne-blanc-domaine-gachot-monot</link>
-<inventory-count>100</inventory-count>
-<product-id>P008041</product-id>
-<extras>
-  <producer>Domaine Gachot-Monot</producer>
-  <wine-name>Bourgogne Côte d’Or</wine-name>
-  <appellation></appellation>
-  <vintage>2020</vintage>
-  <country>France</country>
-  <color>Blanc</color>
-  <varietal>100% Chardonnay</varietal>
-  <description>Le terroir, riche en marnes bleues, apporte à ce vin une belle rondeur. 
-Il s’apprécie à 3 ou 4 ans d’âge et accompagne toutes les entrées.</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2018 Rouge</product-name>
-<price>131</price>
+<product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2022 Rouge</product-name>
+<price>155</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -111,31 +89,8 @@ Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en b
 </product>
 
 <product>
-<product-name>Domaine Gachot-Monot Bourgogne Pinot noir 2019 Rouge</product-name>
-<price>131</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/bourgogne-rouge-2019-gachot-monot</link>
-<inventory-count>100</inventory-count>
-<product-id>P008031#</product-id>
-<extras>
-  <producer>Domaine Gachot-Monot</producer>
-  <wine-name>Bourgogne Pinot noir</wine-name>
-  <appellation></appellation>
-  <vintage>2019</vintage>
-  <country>France</country>
-  <color>Rouge</color>
-  <varietal>100% Pinot noir</varietal>
-  <description>Servir sur une viande rouge ou blanche grillée. 
-Le Bourgogne Rouge s’apprécie jeune et jusqu’à 4-5 ans après la mise en bouteilles.
-</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Gachot-Monot Beaune 1er cru "Montrevenots" 2019 Rouge</product-name>
-<price>275</price>
+<product-name>Domaine Gachot-Monot Beaune 1er cru "Montrevenots" 2022 Rouge</product-name>
+<price>345</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -158,8 +113,8 @@ Apogée de 2 à 7 ans après la mise en bouteille.
 </product>
 
 <product>
-<product-name>Domaine Gachot-Monot Côte de nuits-villages "En la botte" 2019 Rouge</product-name>
-<price>179</price>
+<product-name>Domaine Gachot-Monot Côte de nuits-villages "En la botte" 2022 Rouge</product-name>
+<price>180</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -180,8 +135,8 @@ Apogée de 2 à 7 ans après la mise en bouteille.
 </product>
 
 <product>
-<product-name>Domaine Le Passelys Cahors "Tradition" 2020 Rouge</product-name>
-<price>90</price>
+<product-name>Domaine Le Passelys Cahors "Tradition" 2022 Rouge</product-name>
+<price>125</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -204,8 +159,8 @@ Récompense : Or au concours International Gilbert et Gaillard
 </product>
 
 <product>
-<product-name>Domaine Le Passelys Cahors "Prestige" 2015 - Sélection parcellaire Rouge</product-name>
-<price>120</price>
+<product-name>Domaine Le Passelys Cahors "Prestige" 2018 - Sélection parcellaire Rouge</product-name>
+<price>105</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -228,8 +183,8 @@ A déguster avec une cuisine du Sud Ouest, viandes grillées, en sauce, truffes,
 </product>
 
 <product>
-<product-name>Domaine Le Passelys Cahors "Prestige" 2018 - Sélection parcellaire Rouge</product-name>
-<price>100</price>
+<product-name>Domaine Le Passelys Cahors "Prestige" 2021 - Sélection parcellaire Rouge</product-name>
+<price>150</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -254,7 +209,7 @@ Récompense : Argent au concours des Vignerons Indépendants
 
 <product>
 <product-name>Domaine Le Passelys "Colibri" Cabernet Cortis - Prior 2020 Rouge</product-name>
-<price>115</price>
+<price>100</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -276,8 +231,8 @@ Accords Mets et Vins : Un vin frais et gourmand qui s'accordera parfaitement ave
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "Caillottes" 2021 Blanc</product-name>
-<price>130</price>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Caillottes" 2023 Blanc</product-name>
+<price>145</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -299,7 +254,7 @@ Servi entre 10 et 12 degrés, ce vin vous accompagnera lors d'un repas gastronom
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Pouilly-Fumé "La Villaudière" 2021 Blanc</product-name>
+<product-name>Domaine J.M. Reverdy et fils Pouilly-Fumé "La Villaudière" 2023 Blanc</product-name>
 <price>115</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -322,8 +277,8 @@ Servi entre 10 et 12 degrés, ce Pouilly-Fumé s’accordera avec une salade de 
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "La Villaudière" 2018 Rouge</product-name>
-<price>115</price>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "La Villaudière" 2022 Rouge</product-name>
+<price>120</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -346,7 +301,7 @@ Potentiel de garde : 8 à 10 ans.
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "Terres blanches" 2021 Blanc</product-name>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Terres blanches" 2023 Blanc</product-name>
 <price>130</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -369,8 +324,8 @@ Servi entre 10 et 12 degrés, ce vin de caractère vous accompagnera lors d'un d
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2021 Blanc</product-name>
-<price>130</price>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2023 Blanc</product-name>
+<price>140</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -392,8 +347,8 @@ Servi entre 10 et 12 degrés, ce vin illuminera vos repas raffinés. Agréable s
 </product>
 
 <product>
-<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2019 Rouge</product-name>
-<price>120</price>
+<product-name>Domaine J.M. Reverdy et fils Sancerre "Silex" 2020 Rouge</product-name>
+<price>125</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -591,8 +546,8 @@ Servir en 8° et 10°</description>
 </product>
 
 <product>
-<product-name>Domaine Bru-Baché Jurançon 2019 Blanc</product-name>
-<price>101</price>
+<product-name>Domaine Bru-Baché Jurançon 2021 Blanc</product-name>
+<price>100</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
 <bottle_quantity>6</bottle_quantity>
@@ -616,7 +571,7 @@ Goût : équilibre sucre - acidité
 </product>
 
 <product>
-<product-name>Domaine Bru-Baché Jurançon "Les Castérasses" 2019 Blanc</product-name>
+<product-name>Domaine Bru-Baché Jurançon "Les Castérasses" 2021 Blanc</product-name>
 <price>115</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -642,32 +597,7 @@ Goût : structuré et équilibré entre sucre et acidité
 </product>
 
 <product>
-<product-name>Domaine Bru-Baché Jurançon "L'Eminence" 2018 Blanc</product-name>
-<price>413</price>
-<quantity-is-minimum>false</quantity-is-minimum>
-<bottle_size>750 ml</bottle_size>
-<bottle_quantity>6</bottle_quantity>
-<link>https://www.cavedetheo.com/product-page/l-eminence-bru-bache</link>
-<inventory-count>100</inventory-count>
-<product-id>P00417124</product-id>
-<extras>
-  <producer>Domaine Bru-Baché</producer>
-  <wine-name>Jurançon "L'Eminence"</wine-name>
-  <appellation>Jurançon</appellation>
-  <vintage>2018</vintage>
-  <country>France</country>
-  <color>Blanc</color>
-  <varietal>100% Petit Manseng</varietal>
-  <description>Ce vin est l’oeuvre vraie du temps : sa délivrance. Il en appelle à la durée qui lui en a donné son sens : celui de rasisins de Petit Manseng lentement passerillés jusqu’à la mi-décembre. Et cette durée, célèbre la rareté : celle des grains dérobés à la convoitise de l’oiseau des vignes afin d’en cueillir les hauts goûts et d’en dévoiler les formes sculpturales. Ce vin marque donc une transfiguration progressive du terroir par le temps au profit de l’esprit du Jurançon. Ce chemin n’est pas un rebroussement mais un progrès dirigé contre le goût de l’à-peu-près : une reconquête. Aussi, l’étiquette de ce vin emprunte-t-elle deux symboles à l’Eglise Saint Girons de Monein du XV° siècle : l’oiseau gourmand et la roue du temps, cercle des mouvements éternels comme ceux de la vigne.
-Couleur : doré intense
-Bouquet : oranges confites, abricots, fruits secs
-Goût : puissant et frais
-</description>
-</extras>
-</product>
-
-<product>
-<product-name>Domaine Bru-Baché Jurançon "La Quintessence" 2019 Blanc</product-name>
+<product-name>Domaine Bru-Baché Jurançon "La Quintessence" 2021 Blanc</product-name>
 <price>173</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -692,7 +622,7 @@ Goût : équilibre sucre – acidité avec beaucoup de longueur
 </product>
 
 <product>
-<product-name>Domaine Bru-Baché Jurançon sec 2020 Blanc</product-name>
+<product-name>Domaine Bru-Baché Jurançon sec 2022 Blanc</product-name>
 <price>85</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -717,7 +647,7 @@ Goût : acidulé
 </product>
 
 <product>
-<product-name>Domaine Bru-Baché Jurançon sec "Les Castérasses" 2019 Blanc</product-name>
+<product-name>Domaine Bru-Baché Jurançon sec "Les Castérasses" 2021 Blanc</product-name>
 <price>107</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -878,7 +808,7 @@ Garde : ce vin peut être apprécié dès sa première année de mise en bouteil
 </product>
 
 <product>
-<product-name>Domaine Magellan Magellan 2018 Rouge</product-name>
+<product-name>Domaine Magellan Magellan 2020 Rouge</product-name>
 <price>74</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -903,7 +833,7 @@ Potentiel de garde : 5 à 10 ans
 </product>
 
 <product>
-<product-name>Domaine Magellan Magellan Pezenas 2017 Rouge</product-name>
+<product-name>Domaine Magellan Magellan Pezenas 2019 Rouge</product-name>
 <price>84</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -928,7 +858,7 @@ Potentiel de garde : 5 ans
 </product>
 
 <product>
-<product-name>Domaine Magellan Magellan Grenache 2020 Rouge</product-name>
+<product-name>Domaine Magellan Magellan Grenache 2021 Rouge</product-name>
 <price>74</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -953,7 +883,7 @@ Potentiel de garde : A boire dans l'année, 2 à 3 ans
 </product>
 
 <product>
-<product-name>Domaine Magellan Magellan Pinot noir 2020 Rouge</product-name>
+<product-name>Domaine Magellan Magellan Pinot noir 2022 Rouge</product-name>
 <price>71</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -978,7 +908,7 @@ Potentiel de garde : 2 à 3 ans
 </product>
 
 <product>
-<product-name>Domaine Magellan Magellan Chardonnay 2020 Blanc</product-name>
+<product-name>Domaine Magellan Magellan Chardonnay 2022 Blanc</product-name>
 <price>71</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
@@ -1053,7 +983,7 @@ Potentiel de garde : 5 à 10 ans
 </product>
 
 <product>
-<product-name>La Maison Lafon Les Temps changent 2018 Rouge</product-name>
+<product-name>La Maison Lafon Les Temps changent 2019 Rouge</product-name>
 <price>115</price>
 <quantity-is-minimum>false</quantity-is-minimum>
 <bottle_size>750 ml</bottle_size>
